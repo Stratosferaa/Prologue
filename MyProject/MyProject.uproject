@@ -6,12 +6,12 @@
 	"Plugins": [
 		{
 			"Name": "AsyncLoadingScreen",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/01f39767dc6b4290877f38365787cbf8"
 		},
 		{
 			"Name": "BackgroundBlurWithMask",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/595231118c4e43508f006da5eed02bbd"
 		}
 	]

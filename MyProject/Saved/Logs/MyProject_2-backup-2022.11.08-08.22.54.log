@@ -1,0 +1,1297 @@
+﻿Log file open, 11/08/22 10:21:38
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.387321
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AsyncLoadingScreen
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Athlon(tm) X4 870K Quad Core Processor     , GPU: NVIDIA GeForce GTX 1050 Ti
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  D:/Программы/Prologue/MyProject/MyProject.uproject -run=GatherText -config=Config/Localization/Game_Gather.ini
+LogInit: Base Directory: D:/Программы/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Программы/Prologue/MyProject/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.11.08-08.21.39:492][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2022.11.08-08.21.39:492][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.11.08-08.21.39:492][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Программы/Prologue/MyProject/Saved/Config/Windows/Engine.ini]
+[2022.11.08-08.21.39:492][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.11.08-08.21.39:492][  0]LogConfig: Setting CVar [[r.TextureStreaming:0]]
+[2022.11.08-08.21.39:492][  0]LogConfig: Setting CVar [[r.CustomDepth:3]]
+[2022.11.08-08.21.39:492][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2022.11.08-08.21.39:492][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Программы/Prologue/MyProject/Saved/Config/Windows/Engine.ini]
+[2022.11.08-08.21.39:492][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Программы/Prologue/MyProject/Saved/Config/Windows/Engine.ini]
+[2022.11.08-08.21.39:492][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.11.08-08.21.39:492][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.11.08-08.21.39:492][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.11.08-08.21.39:492][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.11.08-08.21.39:492][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.11.08-08.21.39:492][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.11.08-08.21.39:492][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.11.08-08.21.39:492][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.11.08-08.21.39:492][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.11.08-08.21.39:492][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.11.08-08.21.39:492][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.11.08-08.21.39:492][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.11.08-08.21.39:492][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.11.08-08.21.39:492][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.11.08-08.21.39:492][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Программы/Prologue/MyProject/Saved/Config/Windows/Engine.ini]
+[2022.11.08-08.21.39:492][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.11.08-08.21.39:492][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.11.08-08.21.39:492][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.11.08-08.21.39:492][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.11.08-08.21.39:492][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.11.08-08.21.39:492][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.11.08-08.21.39:492][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.11.08-08.21.39:492][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.11.08-08.21.39:492][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.11.08-08.21.39:492][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.11.08-08.21.39:492][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.11.08-08.21.39:492][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.11.08-08.21.39:492][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.11.08-08.21.39:492][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.11.08-08.21.39:492][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Программы/Prologue/MyProject/Saved/Config/Windows/Engine.ini]
+[2022.11.08-08.21.39:492][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Программы/Prologue/MyProject/Saved/Config/Windows/Engine.ini]
+[2022.11.08-08.21.39:493][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Программы/Prologue/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.11.08-08.21.39:493][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.11.08-08.21.39:493][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.11.08-08.21.39:493][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Программы/Prologue/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.11.08-08.21.39:493][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.11.08-08.21.39:493][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Программы/Prologue/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.11.08-08.21.39:493][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.11.08-08.21.39:493][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.11.08-08.21.39:493][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.11.08-08.21.39:493][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.11.08-08.21.39:493][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.11.08-08.21.39:493][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.11.08-08.21.39:493][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.11.08-08.21.39:493][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.11.08-08.21.39:493][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.11.08-08.21.39:493][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.11.08-08.21.39:493][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.11.08-08.21.39:493][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.11.08-08.21.39:493][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.11.08-08.21.39:493][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.11.08-08.21.39:493][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.11.08-08.21.39:493][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.11.08-08.21.39:493][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.11.08-08.21.39:493][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.11.08-08.21.39:493][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Программы/Prologue/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.11.08-08.21.39:493][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.11.08-08.21.39:493][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.11.08-08.21.39:493][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.11.08-08.21.39:493][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.11.08-08.21.39:493][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.11.08-08.21.39:493][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.11.08-08.21.39:493][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.11.08-08.21.39:493][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.11.08-08.21.39:493][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.11.08-08.21.39:493][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.11.08-08.21.39:493][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.11.08-08.21.39:493][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.11.08-08.21.39:493][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.11.08-08.21.39:493][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.11.08-08.21.39:493][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.11.08-08.21.39:493][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.11.08-08.21.39:493][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.11.08-08.21.39:493][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.11.08-08.21.39:493][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.11.08-08.21.39:493][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.11.08-08.21.39:493][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.11.08-08.21.39:493][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.11.08-08.21.39:493][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Программы/Prologue/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Программы/Prologue/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Программы/Prologue/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Программы/Prologue/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.11.08-08.21.39:494][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.11.08-08.21.39:499][  0]LogInit: Selected Device Profile: [Windows]
+[2022.11.08-08.21.39:499][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.11.08-08.21.39:499][  0]LogHAL: Display: Platform has ~ 16 GB [17155514368 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.11.08-08.21.39:499][  0]LogInit: Going up to parent DeviceProfile []
+[2022.11.08-08.21.39:499][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Программы/Prologue/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.11.08-08.21.39:499][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.11.08-08.21.39:499][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.11.08-08.21.39:499][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Программы/Prologue/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.11.08-08.21.39:499][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.11.08-08.21.39:499][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Программы/Prologue/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.11.08-08.21.39:499][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.11.08-08.21.39:499][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.11.08-08.21.39:499][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.11.08-08.21.39:499][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.11.08-08.21.39:499][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.11.08-08.21.39:499][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.11.08-08.21.39:499][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.11.08-08.21.39:499][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.11.08-08.21.39:499][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.11.08-08.21.39:499][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.11.08-08.21.39:499][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.11.08-08.21.39:499][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.11.08-08.21.39:499][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.11.08-08.21.39:499][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.11.08-08.21.39:499][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.11.08-08.21.39:499][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.11.08-08.21.39:499][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.11.08-08.21.39:499][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.11.08-08.21.39:499][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Программы/Prologue/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.11.08-08.21.39:499][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.11.08-08.21.39:499][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.11.08-08.21.39:499][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.11.08-08.21.39:499][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.11.08-08.21.39:499][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.11.08-08.21.39:499][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.11.08-08.21.39:499][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.11.08-08.21.39:500][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.11.08-08.21.39:500][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.11.08-08.21.39:500][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.11.08-08.21.39:500][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.11.08-08.21.39:500][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.11.08-08.21.39:500][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.11.08-08.21.39:500][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.11.08-08.21.39:500][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.11.08-08.21.39:500][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.11.08-08.21.39:500][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.11.08-08.21.39:500][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.11.08-08.21.39:500][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.11.08-08.21.39:500][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.11.08-08.21.39:500][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.11.08-08.21.39:500][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.11.08-08.21.39:500][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.11.08-08.21.39:500][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.11.08-08.21.39:500][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.11.08-08.21.39:500][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.11.08-08.21.39:500][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.11.08-08.21.39:500][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.11.08-08.21.39:500][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.11.08-08.21.39:500][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.11.08-08.21.39:500][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Программы/Prologue/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.11.08-08.21.39:500][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.11.08-08.21.39:500][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.11.08-08.21.39:500][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.11.08-08.21.39:500][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.11.08-08.21.39:500][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.11.08-08.21.39:500][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.11.08-08.21.39:500][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.11.08-08.21.39:500][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.11.08-08.21.39:500][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.11.08-08.21.39:500][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Программы/Prologue/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.11.08-08.21.39:500][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.11.08-08.21.39:500][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.11.08-08.21.39:500][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.11.08-08.21.39:500][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.11.08-08.21.39:500][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.11.08-08.21.39:500][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.11.08-08.21.39:500][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.11.08-08.21.39:500][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.11.08-08.21.39:500][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.11.08-08.21.39:500][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.11.08-08.21.39:501][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.11.08-08.21.39:501][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.11.08-08.21.39:501][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.11.08-08.21.39:501][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.11.08-08.21.39:501][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.11.08-08.21.39:501][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.11.08-08.21.39:501][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.11.08-08.21.39:501][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.11.08-08.21.39:501][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.11.08-08.21.39:501][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.11.08-08.21.39:501][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.11.08-08.21.39:501][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.11.08-08.21.39:501][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.11.08-08.21.39:501][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.11.08-08.21.39:501][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.11.08-08.21.39:501][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.11.08-08.21.39:501][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.11.08-08.21.39:501][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.11.08-08.21.39:501][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Программы/Prologue/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.11.08-08.21.39:501][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.11.08-08.21.39:501][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.11.08-08.21.39:501][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Программы/Prologue/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.11.08-08.21.39:501][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.11.08-08.21.39:501][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.11.08-08.21.39:501][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.11.08-08.21.39:501][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.11.08-08.21.39:502][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.11.08-08.21.39:502][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.11.08-08.21.39:502][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.11.08-08.21.39:502][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Программы/Prologue/MyProject/Saved/Config/Windows/Engine.ini]
+[2022.11.08-08.21.39:502][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Программы/Prologue/MyProject/Saved/Config/Windows/Editor.ini]
+[2022.11.08-08.21.39:502][  0]LogInit: Computer: DESKTOP-7C1U5QB
+[2022.11.08-08.21.39:502][  0]LogInit: User: Наташа
+[2022.11.08-08.21.39:502][  0]LogInit: CPU Page size=4096, Cores=2
+[2022.11.08-08.21.39:502][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.11.08-08.21.39:502][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2022.11.08-08.21.39:502][  0]LogMemory: Platform Memory Stats for Windows
+[2022.11.08-08.21.39:502][  0]LogMemory: Process Physical Memory: 138.09 MB used, 138.09 MB peak
+[2022.11.08-08.21.39:502][  0]LogMemory: Process Virtual Memory: 110.34 MB used, 110.34 MB peak
+[2022.11.08-08.21.39:502][  0]LogMemory: Physical Memory: 9176.43 MB used,  7184.34 MB free, 16360.77 MB total
+[2022.11.08-08.21.39:502][  0]LogMemory: Virtual Memory: 134212288.00 MB used,  5437.03 MB free, 134217728.00 MB total
+[2022.11.08-08.21.39:513][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.11.08-08.21.39:587][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.11.08-08.21.39:587][  0]LogInit: Using OS detected language (ru-RU).
+[2022.11.08-08.21.39:587][  0]LogInit: Using OS detected locale (ru-UA).
+[2022.11.08-08.21.39:592][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2022.11.08-08.21.39:594][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2022.11.08-08.21.39:595][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2022.11.08-08.21.39:595][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2022.11.08-08.21.39:595][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2022.11.08-08.21.39:595][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2022.11.08-08.21.39:595][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2022.11.08-08.21.39:595][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2022.11.08-08.21.40:358][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.11.08-08.21.40:396][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.11.08-08.21.40:396][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.11.08-08.21.40:396][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.11.08-08.21.40:396][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.11.08-08.21.40:396][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.11.08-08.21.40:396][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.11.08-08.21.40:396][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.11.08-08.21.40:396][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.11.08-08.21.40:396][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.11.08-08.21.40:396][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.11.08-08.21.40:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.11.08-08.21.40:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.11.08-08.21.40:464][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.11.08-08.21.40:472][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.11.08-08.21.40:479][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.11.08-08.21.40:487][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.11.08-08.21.40:503][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.11.08-08.21.40:511][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.11.08-08.21.40:518][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.11.08-08.21.40:559][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.11.08-08.21.40:559][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.11.08-08.21.40:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.11.08-08.21.40:580][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.11.08-08.21.40:586][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.11.08-08.21.40:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.11.08-08.21.40:610][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.11.08-08.21.40:610][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.11.08-08.21.40:625][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.11.08-08.21.40:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.11.08-08.21.40:640][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.11.08-08.21.40:647][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.11.08-08.21.40:647][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.11.08-08.21.40:659][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.11.08-08.21.40:709][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.11.08-08.21.40:763][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.11.08-08.21.40:763][  0]LogShaderCompilers: Guid format shader working directory is 17 characters bigger than the processId version (../../../../Prologue/MyProject/Intermediate/Shaders/WorkingDirectory/6180/).
+[2022.11.08-08.21.40:763][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Наташа/AppData/Local/Temp/UnrealShaderWorkingDir/911C192348D2AE157F5404AC4627F6B8/'.
+[2022.11.08-08.21.40:763][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.11.08-08.21.40:764][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.11.08-08.21.40:764][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.11.08-08.21.41:997][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.11.08-08.21.42:174][  0]LogDerivedDataCache: Loaded boot cache 0.18s 137MB C:/Users/Наташа/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.11.08-08.21.42:174][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Наташа/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.11.08-08.21.42:174][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Prologue/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.11.08-08.21.42:175][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.11.08-08.21.42:175][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Prologue/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.08-08.21.42:175][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.11.08-08.21.42:198][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.11.08-08.21.42:198][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.08-08.21.42:198][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.11.08-08.21.42:211][  0]LogDerivedDataCache: Speed tests for C:/Users/Наташа/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.11.08-08.21.42:211][  0]LogDerivedDataCache: Display: Performance to C:/Users/Наташа/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.08ms. RandomReadSpeed=499.62MBs, RandomWriteSpeed=92.52MBs. Assigned SpeedClass 'Local'
+[2022.11.08-08.21.42:212][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Наташа/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.11.08-08.21.42:213][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.11.08-08.21.42:213][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.11.08-08.21.42:222][  0]LogAssetRegistry: FAssetRegistry took 0.0032 seconds to start up
+[2022.11.08-08.21.42:842][  0]LogInit: Selected Device Profile: [Windows]
+[2022.11.08-08.21.42:842][  0]LogInit: Active device profile: [0000021FD365D700][0000021FD3702040 49] Windows
+[2022.11.08-08.21.42:842][  0]LogInit: Profiles: [0000021FD365D700][0000021FD3702040 49] Windows, [0000021FD36BFA00][0000021FCE1CBB80 49] WindowsNoEditor, [0000021FD365EC00][0000021FCE1D4180 49] WindowsServer, [0000021FD36BD700][0000021FCE1D8300 49] WindowsClient, [0000021FD365FC00][0000021FD3662040 49] IOS, [0000021FD36BC200][0000021FD7A68080 49] iPadAir, [0000021FD365C300][0000021FCE1DC700 49] iPadAir2, [0000021FD7946800][0000021FD44AC9C0 49] IPadPro, [0000021FD7946900][0000021FD44A2A00 49] iPadAir3, [0000021FD365DF00][0000021FD44B6B80 49] iPadAir4, [0000021FD7947A00][0000021FD7A6A040 49] iPadMini2, [0000021FD365F600][0000021FD1D70E40 49] iPadMini3, [0000021FD7945F00][0000021FD796A040 49] iPadMini4, [0000021FD365CA00][0000021FD44BB100 49] iPadMini5, [0000021FD7932100][0000021FD36FC080 49] iPhone6, [0000021FD7932200][0000021FD36FE040 49] iPodTouch6, [0000021FD36BC800][0000021FD44C75C0 49] iPhone7, [0000021FD36BC900][0000021FD44C3600 49] iPodTouch7, [0000021FD7933300][0000021FD7916040 49] iPhone5S, [0000021FD36BF900][0000021FD7914080 49] iPhone6Plus, [0000021FD7931F00][0000021FD37E0080 49] iPhone6S, [0000021FD36BC300][0000021FD798C080 49] iPhone6SPlus, [0000021FD7931300][0000021FD44CBC00 49] iPhone7Plus, [0000021FD36BF500][0000021FD44CE200 49] iPhoneSE, [0000021FD7930A00][0000021FD44D2380 49] iPhone8, [0000021FD36BFE00][0000021FD44D6500 49] iPhone8Plus, [0000021FD7933100][0000021FD44DA680 49] iPhoneX, [0000021FD36BD800][0000021FD44DE800 49] iPhoneXS, [0000021FD7932E00][0000021FD44E2980 49] iPhoneXSMax, [0000021FD36BFD00][0000021FD44E6B00 49] iPhoneXR, [0000021FD7933B00][0000021FD44EAC80 49] iPhone11, [0000021FD36BF600][0000021FD44EEE00 49] iPhone11Pro, [0000021FD7931E00][0000021FD44F2F80 49] iPhone11ProMax, [0000021FD36BD100][0000021FD44F7100 49] iPhoneSE2, [0000021FD7930100][0000021FD44FB280 49] iPhone12Mini, [0000021FD365F200][0000021FD44FF400 49] iPhone12, [0000021FD36BDC00][0000021FD4503580 49] iPhone12Pro, [0000021FD365F100][0000021FD44BF6C0 49] iPhone12ProMax, [0000021FD7932C00][0000021FD4507800 49] iPadPro105, [0000021FD365C600][0000021FD450B940 49] iPadPro129, [0000021FD7931D00][0000021FD4513AC0 49] iPadPro97, [0000021FD365D200][0000021FD45160C0 49] iPadPro2_129, [0000021FD7933000][0000021FD451A240 49] iPad5, [0000021FD365D800][0000021FD451E3C0 49] iPad6, [0000021FD7933D00][0000021FD4522540 49] iPad7, [0000021FD365F500][0000021FD45266C0 49] iPad8, [0000021FD7931C00][0000021FD452A840 49] iPadPro11, [0000021FD365C800][0000021FD452E9C0 49] iPadPro2_11, [0000021FD7931500][0000021FD4532B40 49] iPadPro3_129, [0000021FD365E500][0000021FD4536CC0 49] iPadPro4_129, [0000021FD7931200][0000021FD453AE40 49] AppleTV, [0000021FD365DE00][0000021FD453EFC0 49] AppleTV4K, [0000021FD7932700][0000021FD4543140 49] TVOS, [0000021FD365D500][0000021FD45472C0 49] Mac, [0000021FD7933200][0000021FD454B440 49] MacClient, [0000021FD365DD00][0000021FD454F5C0 49] MacNoEditor, [0000021FD7931900][0000021FD4553740 49] MacServer, [0000021FD365CD00][0000021FD450F880 49] Linux, [0000021FD7930F00][0000021FD45579C0 49] LinuxAArch64, [0000021FD365F900][0000021FD455BB00 49] LinuxNoEditor, [0000021FD7932500][0000021FD455E0C0 49] LinuxAArch64NoEditor, [0000021FD365F400][0000021FD4566240 49] LinuxClient, [0000021FD7932600][0000021FD456A3C0 49] LinuxAArch64Client, [0000021FD365EE00][0000021FD456E540 49] LinuxServer, [0000021FD7930E00][0000021FD45726C0 49] LinuxAArch64Server, [0000021FD365FF00][0000021FD372C080 49] Android, [0000021FD7933600][0000021FD7940080 49] Android_Low, [0000021FD365E100][0000021FD7942040 49] Android_Mid, [0000021FD7930800][0000021FD7938080 49] Android_High, [0000021FD365FE00][0000021FD793A040 49] Android_Default, [0000021FD7931800][0000021FD3690080 49] Android_Adreno4xx, [0000021FD365E400][0000021FD4576FC0 49] Android_Adreno5xx_Low, [0000021FD7930300][0000021FD457B140 49] Android_Adreno5xx, [0000021FD365C900][0000021FD457F2C0 49] Android_Adreno6xx, [0000021FD7930900][0000021FD4583440 49] Android_Adreno6xx_Vulkan, [0000021FD365C400][0000021FD3692040 49] Android_Mali_T6xx, [0000021FD7931A00][0000021FD7A60080 49] Android_Mali_T7xx, [0000021FD365ED00][0000021FD4587840 49] Android_Mali_T8xx, [0000021FD7930600][0000021FD458B9C0 49] Android_Mali_G71, [0000021FD365CF00][0000021FD4563B00 49] Android_Mali_G72, [0000021FD7933900][0000021FD458E0C0 49] Android_Mali_G72_Vulkan, [0000021FD365D300][0000021FD4592200 49] Android_Mali_G76, [0000021FD7931700][0000021FD459A380 49] Android_Mali_G76_Vulkan, [0000021FD365D100][0000021FD459E500 49] Android_Mali_G77, [0000021FD7932B00][0000021FD45A2680 49] Android_Mali_G77_Vulkan, [0000021FD36BC600][0000021FD45A6800 49] Android_Mali_G78, [0000021FD7944A00][0000021FD45AA980 49] Android_Mali_G78_Vulkan, [0000021FD36BD500][0000021FD45AEB00 49] Android_Mali_G710, [0000021FD7947F00][0000021FD45B2C80 49] Android_Mali_G710_Vulkan, [0000021FD36BDB00][0000021FD45B6E00 49] Android_Vulkan_SM5, [0000021FD7946600][0000021FD45BAF80 49] Android_PowerVR_G6xxx, [0000021FD36BE400][0000021FD45BF100 49] Android_PowerVR_GT7xxx, [0000021FD7945B00][0000021FD45C3280 49] Android_PowerVR_GE8xxx, [0000021FD36BCE00][0000021FD45C7400 49] Android_PowerVR_GM9xxx, [0000021FD7947800][0000021FD45CB580 49] Android_PowerVR_GM9xxx_Vulkan, [0000021FD36BEC00][0000021FD7A62040 49] Android_TegraK1, [0000021FD7945A00][0000021FD4597840 49] Android_Unknown_Vulkan, [0000021FD36BF800][0000021FD45D39C0 49] Lumin, [0000021FD7947100][0000021FD45D7B40 49] Lumin_Desktop, [0000021FD36BFC00][0000021FD45CE100 49] HoloLens, 
+[2022.11.08-08.21.42:895][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.11.08-08.21.42:895][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.11.08-08.21.42:895][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.11.08-08.21.42:895][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.11.08-08.21.42:895][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.11.08-08.21.42:907][  0]LogNetVersion: MyProject 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3629800737)
+[2022.11.08-08.21.43:196][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.11.08-08.21.43:362][  0]LogCollectionManager: Loaded 0 collections in 0.001385 seconds
+[2022.11.08-08.21.43:377][  0]LogFileCache: Scanning file cache for directory 'D:/Программы/Prologue/MyProject/Saved/Collections/' took 0.01s
+[2022.11.08-08.21.43:377][  0]LogFileCache: Scanning file cache for directory 'D:/Программы/Prologue/MyProject/Content/Developers/Наташа/Collections/' took 0.00s
+[2022.11.08-08.21.43:377][  0]LogFileCache: Scanning file cache for directory 'D:/Программы/Prologue/MyProject/Content/Collections/' took 0.00s
+[2022.11.08-08.21.43:377][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.11.08-08.21.43:598][  0]LogPython: Using Python 3.7.7
+[2022.11.08-08.21.44:540][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: BC4E495740679623569A4A8461F5D8E8 | Instance: 857E9E9141CC273961B026ABC9D224E1 (DESKTOP-7C1U5QB-6180).
+[2022.11.08-08.21.44:869][  0]SourceControl: Source control is disabled
+[2022.11.08-08.21.44:869][  0]SourceControl: Source control is disabled
+[2022.11.08-08.21.44:875][  0]SourceControl: Source control is disabled
+[2022.11.08-08.21.44:880][  0]SourceControl: Source control is disabled
+[2022.11.08-08.21.44:889][  0]SourceControl: Source control is disabled
+[2022.11.08-08.21.44:898][  0]LogUProjectInfo: Found projects:
+[2022.11.08-08.21.44:911][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.08-08.21.44:912][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.08-08.21.44:913][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.08-08.21.45:200][  0]LogOpenImageDenoise: OIDN starting up
+[2022.11.08-08.21.45:256][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.11.08-08.21.45:291][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.08-08.21.45:291][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.08-08.21.45:589][  0]LogOcInput: OculusInput pre-init called
+[2022.11.08-08.21.45:647][  0]LogUObjectArray: 23091 objects as part of root set at end of initial load.
+[2022.11.08-08.21.45:648][  0]LogUObjectAllocator: 6364480 out of 0 bytes used by permanent object pool.
+[2022.11.08-08.21.45:648][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.11.08-08.21.45:718][  0]LogInit: Executing Class /Script/UnrealEd.GatherTextCommandlet
+[2022.11.08-08.21.45:718][  0]LogInit: Initializing Editor Engine...
+[2022.11.08-08.21.45:719][  0]LogEngine: Initializing Engine...
+[2022.11.08-08.21.45:724][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.11.08-08.21.46:944][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.11.08-08.21.46:963][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.11.08-08.21.46:963][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.11.08-08.21.47:288][  0]LogDerivedDataCache: Saved boot cache 0.32s 137MB C:/Users/Наташа/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.11.08-08.21.47:301][  0]LogInit: Texture streaming: Disabled
+[2022.11.08-08.21.47:348][  0]LogInit: Initializing Editor Engine Completed
+[2022.11.08-08.21.47:648][  0]BlueprintLog: New page: Editor Load
+[2022.11.08-08.21.47:770][  0]LogClass: Display: ByteProperty FALoadingScreenSettings::PlaybackType is not initialized properly. Module:AsyncLoadingScreen File:Public/LoadingScreenSettings.h
+[2022.11.08-08.21.47:770][  0]LogClass: Display: StructProperty FTextAppearance::ShadowOffset is not initialized properly. Module:AsyncLoadingScreen File:Public/LoadingScreenSettings.h
+[2022.11.08-08.21.47:771][  0]LogClass: Display: StructProperty FTextAppearance::ShadowColorAndOpacity is not initialized properly. Module:AsyncLoadingScreen File:Public/LoadingScreenSettings.h
+[2022.11.08-08.21.47:772][  0]LogClass: Display: ByteProperty FTextAppearance::Justification is not initialized properly. Module:AsyncLoadingScreen File:Public/LoadingScreenSettings.h
+[2022.11.08-08.21.47:772][  0]LogClass: Display: FloatProperty FTipSettings::TipWrapAt is not initialized properly. Module:AsyncLoadingScreen File:Public/LoadingScreenSettings.h
+[2022.11.08-08.21.47:774][  0]LogClass: Display: 5 Uninitialized script struct members found including 0 object properties
+[2022.11.08-08.21.47:776][  0]LogGatherTextCommandlet: Display: Beginning GatherText Commandlet for '../../../../Prologue/MyProject/Config/Localization/Game_Gather.ini'
+[2022.11.08-08.21.47:777][  0]LogGatherTextCommandlet: Display: Executing GatherTextStep0: GatherTextFromSourceCommandlet
+[2022.11.08-08.21.51:955][  0]LogGatherTextCommandlet: Display: Completed GatherTextStep0: GatherTextFromSourceCommandlet in 4.178479 seconds
+[2022.11.08-08.21.51:956][  0]LogGatherTextCommandlet: Display: Executing GatherTextStep1: GatherTextFromAssetsCommandlet
+[2022.11.08-08.21.51:956][  0]LogGatherTextFromAssetsCommandlet: Display: SkipGatherCache: true
+[2022.11.08-08.21.51:957][  0]LogGatherTextFromAssetsCommandlet: Display: ReportStaleGatherCache: false
+[2022.11.08-08.21.51:957][  0]LogGatherTextFromAssetsCommandlet: Display: FixStaleGatherCache: false
+[2022.11.08-08.21.51:957][  0]LogGatherTextFromAssetsCommandlet: Display: FixMissingGatherCache: false
+[2022.11.08-08.21.52:944][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/Main/Saved/Setting' and '/Game/Main/Saved/SaveSetting' have the same localization ID (E0424B774D70BAAE0DF05D803E9CCB9E). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.52:948][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/Shimaletik/СистемаЗвуковПоденияПредметов/SoudnHisiObject' and '/Game/Shimaletik/Padenie/SoudnHisiObject' have the same localization ID (ADEC34304977A8F1A24216AD3BD9DA68). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.52:959][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/Core/Blueprints/PC_Play' and '/Game/Main/Main-Controller' have the same localization ID (6C6C0D154F1623D3283A6E8B92026833). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.52:966][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/Core/Character/Main_Character' and '/Game/Main/Character' have the same localization ID (740011E142E77D26BFFDCA82AE003DD2). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.52:967][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/EndOfTheWorld/Levels/WWWM_2' and '/Game/_MAPS/1_Castle' have the same localization ID (2FB2646143F7AF5E57BB33B6163BBAE4). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.52:973][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/Shimaletik/inv/ui/Inventory' and '/Game/Main/UI/WG-Game/WG-GameMain' have the same localization ID (518552DB4654457B0C70F497E1568381). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.52:974][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/Shimaletik/inv/ui/Inventory_slot--' and '/Game/Main/UI/WG-Game/WG-GameInventorySlot' have the same localization ID (D8101FA2483D42229A1CA5B8C1A14128). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.52:982][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/Cinematics_all/NewFont_2' and '/Game/_Props/ADD/NewFont_2' have the same localization ID (98C221DA41228AA9FFF99A9A51AD964F). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.52:989][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/Machinick/Material/OutLine/Old-PP_ObjectOutline_Master' and '/Game/PP_ObjectOutline_Master' have the same localization ID (A08C5C994AC0FF5C461014873CB09AFC). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.52:996][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/AdvancedGlassPack/Materials/05_Wet/M_Glass_WetMaster' and '/Game/_Props/ADD/AdvancedGlassPack/Materials/05_Wet/M_Glass_WetMaster' have the same localization ID (CF6A617542DA2DE625FE4C80661740B6). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.53:047][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/MedievalProps_Kit/Cellar/Materials/M_MasterMaterial' and '/Game/_Props/MedievalProps_Kit/Books_Scrolls_Paintings/Materials/M_MasterMaterial' have the same localization ID (A298B49A45A9F4A8DB5BE1A2D5032552). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.53:048][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/MedievalProps_Kit/Furniture/Materials/M_MasterMaterial' and '/Game/_Props/MedievalProps_Kit/Books_Scrolls_Paintings/Materials/M_MasterMaterial' have the same localization ID (A298B49A45A9F4A8DB5BE1A2D5032552). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.53:052][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/meshes/M5VFXVOL2/Materials/Master/Sequence_Mat' and '/Game/_Props/M5VFXVOL2/Materials/Master/Sequence_Mat' have the same localization ID (5800560D4B75C5D0322F8D8B0B0C2760). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.53:054][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/meshes/Medieval_Props_Kitchen/Materials/M_MasterMaterial' and '/Game/_Props/MedievalProps_Kit/Books_Scrolls_Paintings/Materials/M_MasterMaterial' have the same localization ID (A298B49A45A9F4A8DB5BE1A2D5032552). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.53:068][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/OthersPacks/BloodPack/MasterMaterialsAndTextures4k/M_Blood_Fresh' and '/Game/_Props/Deadly_Caverns/Assets/Materials/Master/MM_Simple_Decal' have the same localization ID (F5F478D940E51BC001D488AE824C11DC). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.53:073][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/Realistic_Starter_VFX_Pack/Materials/M_Smoke_A' and '/Game/_Props/EnvironmentalVFX/Materials/M_Smoke' have the same localization ID (F79FC3BD481F158E1DD6DF91BD110F44). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.53:084][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/EndOfTheWorld/ChackLight/Bat_Knocker_LoMat' and '/Game/_Props/EndOfTheWorld/ChackLight/Bat_Knocker_LoMat' have the same localization ID (FB6EFB7544BBACFBA4A40C9BAA199785). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.53:086][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/EndOfTheWorld/ChackLight/wwee' and '/Game/_Props/EndOfTheWorld/ChackLight/wwee' have the same localization ID (F038945E475A5033333703841C03D4E6). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.53:088][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/FantasyDungeon2/Materials/BaseMaterial/M_MainShader_V_12' and '/Game/_Props/FantasyDungeon2/Materials/BaseMaterial/M_MainShader_V_12' have the same localization ID (9FA04F1546875356D81CEB8A145B9FE4). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.53:090][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/HorrorDiningRoom/Materials/Master/Frames_master' and '/Game/_Props/HorrorDiningRoom/Materials/Master/Frames_master' have the same localization ID (1D1D1B50462BF9B08E561087250FD5BA). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.53:092][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/HorrorDiningRoom/Materials/Master/Master_mat' and '/Game/_Props/HorrorDiningRoom/Materials/Master/Master_mat' have the same localization ID (7F2230CA4FE0E1189C9317A3542E7504). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.53:100][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/Proj/Core/DLSM' and '/Game/DLSM_Mat/Core/DLSM' have the same localization ID (A44DE3BC4AC62920C54BC2948874B9F2). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.53:102][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/SpideEye/Material/Skin1/Mat_SpideEye_Skin1' and '/Game/_Props/SpideEye/Material/Skin1/Mat_SpideEye_Skin1' have the same localization ID (0465AD7E4F3661F7A5D4FAA9AC027B10). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.53:104][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/SpideEye/Material/Skin1/Mat_SpideEye_Skin1_Eye_Gloss' and '/Game/_Props/SpideEye/Material/Skin1/Mat_SpideEye_Skin1_Eye_Gloss' have the same localization ID (3A7B26EC466A1CDF1F1A67A6500697CB). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.53:106][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/VictorianLivingRoom/Materials/Master_Material/M_MasterMaterial' and '/Game/_Props/VictorianLivingRoom/Materials/Master_Material/M_MasterMaterial' have the same localization ID (3C4A3F5D4AAE53A283FF60A75BD537D1). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.53:111][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/Machinick/Material/OutLine/Old-OutLine-1' and '/Game/PP_ObjectOutline_Master_Inst' have the same localization ID (0BD29A794FBC66DD10E9A88484D08D7E). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.53:201][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/HorrorDiningRoom/Materials/Instances/Tray_mat' and '/Game/_Props/HorrorDiningRoom/Materials/Instances/Tray_mat' have the same localization ID (A45475E341D2A499A283C7B3FD1A1491). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.53:208][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/Proj/Core/DLSM_Inst' and '/Game/DLSM_Mat/Core/DLSM_Inst' have the same localization ID (9234416B40E9FEABFB3E84A0D20F9121). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.53:210][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/VictorianLivingRoom/Materials/M_Newspaper' and '/Game/_Props/VictorianLivingRoom/Materials/M_Newspaper' have the same localization ID (4CD0AFCA4051BEAD8BDBAEA744EF138A). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.53:212][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/VictorianLivingRoom/Materials/M_Table' and '/Game/_Props/VictorianLivingRoom/Materials/M_Table' have the same localization ID (B18E70DB455606CF74CAA28556F826E0). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.53:575][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/Shimaletik/NeNavel' and '/Game/Main/UI/WG-Game/Inventory/Image/NeNavel' have the same localization ID (31D07C9B43C3C0327D1B9CA7C6841E71). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.53:748][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/CastleRiver/Textures/T_RiverWater_N' and '/Game/CastleRiver/Textures/T_RiverWater_N' have the same localization ID (CAD79BA847C2954D2B117EA9EE4A7E0B). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:044][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/MedievalProps_Kit/Cellar/Textures/Defaults/T_Default_1024_B' and '/Game/_Props/MedievalProps_Kit/Books_Scrolls_Paintings/Textures/Defaults/T_Default_1024_B' have the same localization ID (55F2CE6F4F5B181C38BB50BA31F2DFD5). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:046][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/MedievalProps_Kit/Cellar/Textures/Defaults/T_Default_1024_E' and '/Game/_Props/MedievalProps_Kit/Books_Scrolls_Paintings/Textures/Defaults/T_Default_1024_E' have the same localization ID (637200E6407BA9D9106EA5B319C276B1). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:048][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/MedievalProps_Kit/Cellar/Textures/Defaults/T_Default_1024_M' and '/Game/_Props/MedievalProps_Kit/Books_Scrolls_Paintings/Textures/Defaults/T_Default_1024_M' have the same localization ID (33107D5F4616092F2706D1A3ADD5452B). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:050][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/MedievalProps_Kit/Cellar/Textures/Defaults/T_Default_1024_N' and '/Game/_Props/MedievalProps_Kit/Books_Scrolls_Paintings/Textures/Defaults/T_Default_1024_N' have the same localization ID (61E983E641A547DA90C7ACB5262499EA). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:052][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/MedievalProps_Kit/Cellar/Textures/Defaults/T_Default_1024_RMA' and '/Game/_Props/MedievalProps_Kit/Books_Scrolls_Paintings/Textures/Defaults/T_Default_1024_RMA' have the same localization ID (5D72219145E733E62EDBB6B73CA40FC5). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:058][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/MedievalProps_Kit/Furniture/Textures/Defaults/T_Default_1024_B' and '/Game/_Props/MedievalProps_Kit/Books_Scrolls_Paintings/Textures/Defaults/T_Default_1024_B' have the same localization ID (55F2CE6F4F5B181C38BB50BA31F2DFD5). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:059][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/MedievalProps_Kit/Furniture/Textures/Defaults/T_Default_1024_E' and '/Game/_Props/MedievalProps_Kit/Books_Scrolls_Paintings/Textures/Defaults/T_Default_1024_E' have the same localization ID (637200E6407BA9D9106EA5B319C276B1). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:060][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/MedievalProps_Kit/Furniture/Textures/Defaults/T_Default_1024_M' and '/Game/_Props/MedievalProps_Kit/Books_Scrolls_Paintings/Textures/Defaults/T_Default_1024_M' have the same localization ID (33107D5F4616092F2706D1A3ADD5452B). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:062][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/MedievalProps_Kit/Furniture/Textures/Defaults/T_Default_1024_N' and '/Game/_Props/MedievalProps_Kit/Books_Scrolls_Paintings/Textures/Defaults/T_Default_1024_N' have the same localization ID (61E983E641A547DA90C7ACB5262499EA). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:063][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/MedievalProps_Kit/Furniture/Textures/Defaults/T_Default_1024_RMA' and '/Game/_Props/MedievalProps_Kit/Books_Scrolls_Paintings/Textures/Defaults/T_Default_1024_RMA' have the same localization ID (5D72219145E733E62EDBB6B73CA40FC5). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:081][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/meshes/M5VFXVOL2/Textures/CandleFire/CandleFire_D' and '/Game/_Props/M5VFXVOL2/Textures/CandleFire/CandleFire_D' have the same localization ID (18D0F01648A8CADF6C46F0A562C0E7E4). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:085][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/meshes/Medieval_Props_Kitchen/Textures/Defaults/T_Default_1024_B' and '/Game/_Props/MedievalProps_Kit/Books_Scrolls_Paintings/Textures/Defaults/T_Default_1024_B' have the same localization ID (55F2CE6F4F5B181C38BB50BA31F2DFD5). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:086][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/meshes/Medieval_Props_Kitchen/Textures/Defaults/T_Default_1024_E' and '/Game/_Props/MedievalProps_Kit/Books_Scrolls_Paintings/Textures/Defaults/T_Default_1024_E' have the same localization ID (637200E6407BA9D9106EA5B319C276B1). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:088][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/meshes/Medieval_Props_Kitchen/Textures/Defaults/T_Default_1024_M' and '/Game/_Props/MedievalProps_Kit/Books_Scrolls_Paintings/Textures/Defaults/T_Default_1024_M' have the same localization ID (33107D5F4616092F2706D1A3ADD5452B). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:089][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/meshes/Medieval_Props_Kitchen/Textures/Defaults/T_Default_1024_N' and '/Game/_Props/MedievalProps_Kit/Books_Scrolls_Paintings/Textures/Defaults/T_Default_1024_N' have the same localization ID (61E983E641A547DA90C7ACB5262499EA). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:091][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/meshes/Medieval_Props_Kitchen/Textures/Defaults/T_Default_1024_RMA' and '/Game/_Props/MedievalProps_Kit/Books_Scrolls_Paintings/Textures/Defaults/T_Default_1024_RMA' have the same localization ID (5D72219145E733E62EDBB6B73CA40FC5). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:156][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/OldHuntersManor/Textures/NormalColor' and '/Game/_Props/meshes/OldHuntersManor/Textures/NormalColor' have the same localization ID (3D9DD8374E66FC0B5B8292A0681E973E). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:161][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/OldHuntersManor/Textures/WhiteColor' and '/Game/_Props/meshes/OldHuntersManor/Textures/WhiteColor' have the same localization ID (342836554871883C81283D8ED8CAAA01). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:166][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/Old_library/Textures/T_black' and '/Game/_Props/Basement_Tavern/Textures/black' have the same localization ID (A44CEEBE477737E35A2AD19B70479216). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:180][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/Old_library/Textures/T_grey' and '/Game/_Props/Basement_Tavern/Textures/grey' have the same localization ID (A56E14B044FA348E2B3EA8961AC55848). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:183][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/Old_library/Textures/T_mask' and '/Game/_Props/Basement_Tavern/Textures/mask' have the same localization ID (68B0C3984D9F720A51DDE18663265D93). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:185][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/Old_library/Textures/T_normal' and '/Game/_Props/Basement_Tavern/Textures/normal' have the same localization ID (30547B0542EAB6F71DEAE1B79FC23DAB). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:195][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/Old_library/Textures/T_white' and '/Game/_Props/Basement_Tavern/Textures/white' have the same localization ID (13D320C8476565A69EF0A88655320AFA). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:203][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/OthersPacks/BloodPack/MasterMaterialsAndTextures4k/Textures/T_Blood_Fresh_BC' and '/Game/_Props/Deadly_Caverns/Assets/Textures/FX/TX_Blood' have the same localization ID (E4E227094CB14FA981A8E289406BA78F). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:207][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/OthersPacks/BloodPack/MasterMaterialsAndTextures4k/Textures/T_Blood_R' and '/Game/_Props/Deadly_Caverns/Assets/Textures/FX/TX_Blood_RMA' have the same localization ID (3C25560B410B2FA2565387B65296AC2E). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:261][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/Realistic_Starter_VFX_Pack/Textures/T_Smoke_B' and '/Game/_Props/EnvironmentalVFX/Textures/T_Smoke_2' have the same localization ID (917CAEB04F3D27E3A3EFCD992A7B7BA2). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:297][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/UltraDynamicSky/Textures/Clouds/clouds_classic' and '/Game/_Props/UltraDynamicSky/Textures/clouds_classic' have the same localization ID (F19C6EB84051985252A2E2977F346FEB). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:298][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/UltraDynamicSky/Textures/Sky/Cloud_Wisps' and '/Game/_Props/UltraDynamicSky/Textures/Cloud_Wisps' have the same localization ID (21BEE181441261336DD296BD998E989B). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:300][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/UltraDynamicSky/Textures/Sky/Stars' and '/Game/_Props/UltraDynamicSky/Textures/Stars' have the same localization ID (6E8A3A3D4F1392573E8C52B1685693B6). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:363][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/EndOfTheWorld/ChackLight/batknocker_albedo' and '/Game/_Props/EndOfTheWorld/ChackLight/batknocker_albedo' have the same localization ID (B47EFD774607C2754FA0DA85FFAA03F4). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:364][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/EndOfTheWorld/ChackLight/batknocker_normals' and '/Game/_Props/EndOfTheWorld/ChackLight/batknocker_normals' have the same localization ID (691CC3B84BF24ADC624546B800ABAC8B). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:366][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/EndOfTheWorld/ChackLight/batknocker_roughness' and '/Game/_Props/EndOfTheWorld/ChackLight/batknocker_roughness' have the same localization ID (D233F2904CF5BAA9DD6A3BAC88200CB7). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:367][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/EndOfTheWorld/ChackLight/bat_knocker_low_03_initialShadingGroup_AO' and '/Game/_Props/EndOfTheWorld/ChackLight/bat_knocker_low_03_initialShadingGroup_AO' have the same localization ID (FBA08A6E45FF07F8D83477B5C2A7701C). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:369][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/FantasyDungeon2/Textures/BaseTextures/T_BB_D' and '/Game/_Props/FantasyDungeon2/Textures/BaseTextures/T_BB_D' have the same localization ID (67F4F1B24885C48A1DE496B190EA3CE3). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:370][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/FantasyDungeon2/Textures/BaseTextures/T_BG_D' and '/Game/_Props/FantasyDungeon2/Textures/BaseTextures/T_BG_D' have the same localization ID (07BAF62D4F4DA73FE1059B9703FEAC61). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:372][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/FantasyDungeon2/Textures/BaseTextures/T_B_N' and '/Game/_Props/FantasyDungeon2/Textures/BaseTextures/T_B_N' have the same localization ID (3E0C9FCD47E561FED36CBFB6A014534C). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:373][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/FantasyDungeon2/Textures/BaseTextures/T_MASK1' and '/Game/_Props/FantasyDungeon2/Textures/BaseTextures/T_MASK1' have the same localization ID (1695A6294A9CDAFB5C7EABB13054A88E). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:375][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/FantasyDungeon2/Textures/BaseTextures/T_MASK2' and '/Game/_Props/FantasyDungeon2/Textures/BaseTextures/T_MASK2' have the same localization ID (76313BF44B688C86B24997BF99C0F90D). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:379][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/FantasyDungeon2/Textures/Wall/T_Dirt01_D' and '/Game/_Props/FantasyDungeon2/Textures/Wall/T_Dirt01_D' have the same localization ID (94ACF2A144AB84DFAD708A8525A1D3DF). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:380][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/FantasyDungeon2/Textures/Wall/T_Dirt01_N' and '/Game/_Props/FantasyDungeon2/Textures/Wall/T_Dirt01_N' have the same localization ID (05A155BA4AEA9795BF440187104188A8). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:384][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/HorrorDiningRoom/Textures/Frame_mask' and '/Game/_Props/HorrorDiningRoom/Textures/Frame_mask' have the same localization ID (BF9C6C034D7448A88A682EBCC40364E7). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:385][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/HorrorDiningRoom/Textures/Frame_mat_Co' and '/Game/_Props/HorrorDiningRoom/Textures/Frame_mat_Co' have the same localization ID (A0FB1C0A411E1FDE9CDC9EA0AE96458C). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:387][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/HorrorDiningRoom/Textures/Frame_mat_N' and '/Game/_Props/HorrorDiningRoom/Textures/Frame_mat_N' have the same localization ID (A41D42C0415AC3465A9FC9A31646913B). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:387][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/HorrorDiningRoom/Textures/Frame_mat_ORM' and '/Game/_Props/HorrorDiningRoom/Textures/Frame_mat_ORM' have the same localization ID (C2E699034CE1B543D14695BF7247F2C2). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:389][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/HorrorDiningRoom/Textures/frame_pictures_sample' and '/Game/_Props/HorrorDiningRoom/Textures/frame_pictures_sample' have the same localization ID (825361C3461C245A11D95F9E2CC1800E). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:389][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/HorrorDiningRoom/Textures/Table_mat_Co' and '/Game/_Props/HorrorDiningRoom/Textures/Table_mat_Co' have the same localization ID (EFC5345549BBE1B77C23C7B4CF02F1B1). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:390][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/HorrorDiningRoom/Textures/Table_mat_N' and '/Game/_Props/HorrorDiningRoom/Textures/Table_mat_N' have the same localization ID (4540D6B74032AB7683F90DB65C550099). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:391][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/HorrorDiningRoom/Textures/Table_mat_ORM' and '/Game/_Props/HorrorDiningRoom/Textures/Table_mat_ORM' have the same localization ID (F42E1B814741B3F4E7A57DB82D0681D9). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:392][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/HorrorDiningRoom/Textures/tray_mat_Co' and '/Game/_Props/HorrorDiningRoom/Textures/tray_mat_Co' have the same localization ID (F1AD602745417159929D57B51922E4B8). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:395][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/HorrorDiningRoom/Textures/tray_mat_N' and '/Game/_Props/HorrorDiningRoom/Textures/tray_mat_N' have the same localization ID (7330471044DF6BDA2B65D0BDD5B296D3). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:398][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/HorrorDiningRoom/Textures/tray_mat_ORM' and '/Game/_Props/HorrorDiningRoom/Textures/tray_mat_ORM' have the same localization ID (5CC0F5CE4FCB9721E2B08684B2072943). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:436][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/SpideEye/Textures/Skin1/T_SpideEye_Skin1_Albedo' and '/Game/_Props/SpideEye/Textures/Skin1/T_SpideEye_Skin1_Albedo' have the same localization ID (1BBB147C490C16F5B93E2097ADBB41C2). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:437][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/SpideEye/Textures/Skin1/T_SpideEye_Skin1_AO' and '/Game/_Props/SpideEye/Textures/Skin1/T_SpideEye_Skin1_AO' have the same localization ID (99D562694F92A09D4C09D294156A00BF). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:439][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/SpideEye/Textures/Skin1/T_SpideEye_Skin1_emissive' and '/Game/_Props/SpideEye/Textures/Skin1/T_SpideEye_Skin1_emissive' have the same localization ID (23E07E64482D3A5535D3BEB8176503DE). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:440][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/SpideEye/Textures/Skin1/T_SpideEye_Skin1_Metallic' and '/Game/_Props/SpideEye/Textures/Skin1/T_SpideEye_Skin1_Metallic' have the same localization ID (D902CC3544A70F56BBD64081EE0AA021). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:442][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/SpideEye/Textures/Skin1/T_SpideEye_Skin1_Normal' and '/Game/_Props/SpideEye/Textures/Skin1/T_SpideEye_Skin1_Normal' have the same localization ID (C4DBD3154DF818B0CFDD1FA4E44E2FBC). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:443][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/SpideEye/Textures/Skin1/T_SpideEye_Skin1_Opacity' and '/Game/_Props/SpideEye/Textures/Skin1/T_SpideEye_Skin1_Opacity' have the same localization ID (4C1911E64628EED3E8DDF5B1A7CB147C). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:444][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/SpideEye/Textures/Skin1/T_SpideEye_Skin1_Roughness' and '/Game/_Props/SpideEye/Textures/Skin1/T_SpideEye_Skin1_Roughness' have the same localization ID (12880C5541A8FC4AA7EDF2ACE2727E43). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:447][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/VictorianLivingRoom/Textures/T_arch_BaseColor' and '/Game/_Props/VictorianLivingRoom/Textures/T_arch_BaseColor' have the same localization ID (352AEA2841EAF40EC87997B8FD367B80). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:449][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/VictorianLivingRoom/Textures/T_arch_Normal' and '/Game/_Props/VictorianLivingRoom/Textures/T_arch_Normal' have the same localization ID (80D0A8FF468BBB59C750DDB2C009E054). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:450][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/VictorianLivingRoom/Textures/T_arch_OcclusionRoughnessMetallic' and '/Game/_Props/VictorianLivingRoom/Textures/T_arch_OcclusionRoughnessMetallic' have the same localization ID (0FA6AE6549D35C1DAE6121820F6ED6F2). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:452][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/VictorianLivingRoom/Textures/T_emissive_mask' and '/Game/_Props/VictorianLivingRoom/Textures/T_emissive_mask' have the same localization ID (5AD1BEA94467DC7401DA9896DE0F368F). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:453][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/VictorianLivingRoom/Textures/T_newspaper_BaseColor' and '/Game/_Props/VictorianLivingRoom/Textures/T_newspaper_BaseColor' have the same localization ID (E204221F4E1D6F511800478FED0493DE). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:454][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/VictorianLivingRoom/Textures/T_newspaper_Normal' and '/Game/_Props/VictorianLivingRoom/Textures/T_newspaper_Normal' have the same localization ID (A3EE2ED54B998F2BB001B7826F1A8F84). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:457][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/VictorianLivingRoom/Textures/T_newspaper_OcclusionRoughnessMetallic' and '/Game/_Props/VictorianLivingRoom/Textures/T_newspaper_OcclusionRoughnessMetallic' have the same localization ID (999FEC6F4CF32895CF1EACAED418102B). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:458][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/VictorianLivingRoom/Textures/T_table_BaseColor' and '/Game/_Props/VictorianLivingRoom/Textures/T_table_BaseColor' have the same localization ID (89343D04478083F00821B58C272D2DAB). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:459][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/VictorianLivingRoom/Textures/T_table_Normal' and '/Game/_Props/VictorianLivingRoom/Textures/T_table_Normal' have the same localization ID (B6FCA99840A36EFF1CCE5BAF6FDE880F). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:460][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/VictorianLivingRoom/Textures/T_table_OcclusionRoughnessMetallic' and '/Game/_Props/VictorianLivingRoom/Textures/T_table_OcclusionRoughnessMetallic' have the same localization ID (32BCD52B44DA375B4C43F6B0D2437725). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:481][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/Shimaletik/СистемаЗвуковПоденияПредметов/Cloth/Pillow_01' and '/Game/Shimaletik/Padenie/Cloth/Pillow_01' have the same localization ID (7503F808476A8EF9014677B7AC32BCAB). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:482][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/Shimaletik/СистемаЗвуковПоденияПредметов/Cloth/Pillow_02' and '/Game/Shimaletik/Padenie/Cloth/Pillow_02' have the same localization ID (409BDFAB49CA1F5E0F73B8B20DD42BD8). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:483][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/Shimaletik/СистемаЗвуковПоденияПредметов/Metal/Metal_drop_01' and '/Game/Shimaletik/Padenie/Metal/Metal_drop_01' have the same localization ID (732B8BA04E8E11C0CFB18998019C258E). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:485][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/Shimaletik/СистемаЗвуковПоденияПредметов/Metal/Metal_drop_02' and '/Game/Shimaletik/Padenie/Metal/Metal_drop_02' have the same localization ID (8F885AE1439CF05DA3E56D8517AACA07). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:486][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/Shimaletik/СистемаЗвуковПоденияПредметов/Metal/Metal_drop_03' and '/Game/Shimaletik/Padenie/Metal/Metal_drop_03' have the same localization ID (CFF4BBB648BF0BFF71B18AA5C1B7A24B). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:487][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/Shimaletik/СистемаЗвуковПоденияПредметов/Stone/Rock_drop_01' and '/Game/Shimaletik/Padenie/Stone/Rock_drop_01' have the same localization ID (E3EC486348597B3607DCEDB8A0D33735). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:489][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/Shimaletik/СистемаЗвуковПоденияПредметов/Stone/Rock_drop_02' and '/Game/Shimaletik/Padenie/Stone/Rock_drop_02' have the same localization ID (0E92424E425E904FEAD224AE794093B1). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:490][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/Shimaletik/СистемаЗвуковПоденияПредметов/Wood/www1' and '/Game/Shimaletik/Padenie/Wood/www1' have the same localization ID (D89496234C12184C303665A41CD24081). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:491][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/Shimaletik/СистемаЗвуковПоденияПредметов/Wood/www2' and '/Game/Shimaletik/Padenie/Wood/www2' have the same localization ID (29F79C44474868FCEDA474B8314412DC). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:514][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/Shimaletik/СистемаЗвуковПоденияПредметов/Cloth/CCloth' and '/Game/Shimaletik/Padenie/Cloth/CCloth' have the same localization ID (2F81D5CD49F0B71548A9D698CE6F5A34). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:515][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/Shimaletik/СистемаЗвуковПоденияПредметов/Metal/CMetal' and '/Game/Shimaletik/Padenie/Metal/CMetal' have the same localization ID (3E3887E64CB1B51D6862799347FE1A9B). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:516][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/Shimaletik/СистемаЗвуковПоденияПредметов/Stone/CStone' and '/Game/Shimaletik/Padenie/Stone/CStone' have the same localization ID (9675961D43D0846C380E1BB7AB2513D2). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:518][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/Shimaletik/СистемаЗвуковПоденияПредметов/Wood/CWood' and '/Game/Shimaletik/Padenie/Wood/CWood' have the same localization ID (EFD45B5F40AE529684A153894AF87234). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:556][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/SpideEye/Animation/Anim_SpideEye_Idle' and '/Game/_Props/SpideEye/Animation/Anim_SpideEye_Idle' have the same localization ID (4A194E2B43270938FBEF94844BB1A722). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:562][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/SpideEye/Mesh/SK_SpideEye_Skeleton' and '/Game/_Props/SpideEye/Mesh/SK_SpideEye_Skeleton' have the same localization ID (FE8EC9614D77C0D39ABD8699E1FED4F8). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:570][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/SpideEye/Mesh/SK_SpideEye' and '/Game/_Props/SpideEye/Mesh/SK_SpideEye' have the same localization ID (D8C0743749F6D94091268B9B5F109D39). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:862][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/EndOfTheWorld/ChackLight/bat_knocker' and '/Game/_Props/EndOfTheWorld/ChackLight/bat_knocker' have the same localization ID (B9D03F974F4A07E49D746FA8A4D72107). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.54:865][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/HorrorDiningRoom/Mesh/tray' and '/Game/_Props/HorrorDiningRoom/Mesh/tray' have the same localization ID (E46C82FB4F61CF3AA1F9959B2243F259). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.55:349][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/SpideEye/Mesh/SK_SpideEye_PhysicsAsset' and '/Game/_Props/SpideEye/Mesh/SK_SpideEye_PhysicsAsset' have the same localization ID (27411DE24EDCE5E3E9A72A96CF20C72A). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.55:352][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/Shimaletik/СистемаЗвуковПоденияПредметов/Metal/Metal' and '/Game/Shimaletik/Padenie/Metal/Metal' have the same localization ID (E13558D644AA967DAA054FA7640ED5B4). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.55:353][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/Shimaletik/СистемаЗвуковПоденияПредметов/Stone/Stone' and '/Game/Shimaletik/Padenie/Stone/Stone' have the same localization ID (8EA2F48D4B14B3405691379BD71ED495). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.55:354][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/Shimaletik/СистемаЗвуковПоденияПредметов/Wood/Wood' and '/Game/Shimaletik/Padenie/Wood/Wood' have the same localization ID (2ABF6B1947396C664812CBA294685449). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.55:358][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/MalformedForest/Level/Level_MalformedForest_Info' and '/Game/_MAPS/Tutorial' have the same localization ID (764D6BBD47E8990F8B3974AF1C019ECF). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.55:360][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/MalformedForest/Level/Level_MalformedForest_Overview' and '/Game/_MAPS/Tutorial' have the same localization ID (764D6BBD47E8990F8B3974AF1C019ECF). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.55:361][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/StaticMeshOptimizer/Demo/Levels/Level_StaticMeshOptimizer' and '/Game/_MAPS/Tutorial' have the same localization ID (764D6BBD47E8990F8B3974AF1C019ECF). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.55:372][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/MalformedForest/Level/Level_MalformedForest_Overview_BuiltData' and '/Game/MalformedForest/Level/Level_MalformedForest_Info_BuiltData' have the same localization ID (BBCDDDE247B2B5E0FAE1FD895B6B5D14). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.55:373][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/StaticMeshOptimizer/Demo/Levels/Level_StaticMeshOptimizer_BuiltData' and '/Game/MalformedForest/Level/Level_MalformedForest_Info_BuiltData' have the same localization ID (BBCDDDE247B2B5E0FAE1FD895B6B5D14). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.55:388][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/InfinityWeather/Environment/Functions/MF_ViewCamera' and '/Game/_Props/InfinityWeather/Environment/Functions/MF_ViewCamera' have the same localization ID (1CF1B7F74C39167E8A7582BCAB1AE7F8). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.55:391][  0]LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/Proj/Core/NewMaterialParameterCollection' and '/Game/DLSM_Mat/Core/NewMaterialParameterCollection' have the same localization ID (B64B64314CDA18D28B72E7B624D22DFD). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.21.55:416][  0]LogGatherTextFromAssetsCommandlet: Display: Asset gather cache metrics: 12436 cached, 453 uncached (0 too old, 453 no cache or contained bytecode)
+[2022.11.08-08.21.55:417][  0]LogGatherTextFromAssetsCommandlet: Display: Loading 453 packages in 5 batches of 100.
+[2022.11.08-08.21.55:561][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.11.08-08.21.55:706][  0]LogLinker: [AssetLog] D:\Программы\Prologue\MyProject\Content\Main\UI\WG-GameMainMenu\WG-GameMenuMain.uasset: Failed to load '/Script/BackgroundBlurWithMask': Can't find file.
+[2022.11.08-08.21.55:984][  0]LogLinker: [AssetLog] D:\Программы\Prologue\MyProject\Content\Main\UI\WG-BaseMenu\BaseMenu.uasset: Failed to load '/Script/BackgroundBlurWithMask': Can't find file.
+[2022.11.08-08.21.55:984][  0]LogLinker: [AssetLog] D:\Программы\Prologue\MyProject\Content\Main\UI\WG-BaseMenu\BaseMenu.uasset: Failed to load '/Script/BackgroundBlurWithMask': Can't find file.
+[2022.11.08-08.21.56:009][  0]LogLinker: [AssetLog] D:\Программы\Prologue\MyProject\Content\Main\UI\WG-BaseMenu\BaseMenu.uasset: Failed to load '/Script/BackgroundBlurWithMask': Can't find file.
+[2022.11.08-08.21.56:014][  0]LogLinker: [AssetLog] D:\Программы\Prologue\MyProject\Content\Main\UI\WG-GameMainMenu\WG-GameMenuMain.uasset: Failed to load '/Script/BackgroundBlurWithMask': Can't find file.
+[2022.11.08-08.21.56:681][  0]LogLinker: [AssetLog] D:\Программы\Prologue\MyProject\Content\Machinick\Box-Item\Game-BoxItem.uasset: Failed to load '/Script/BackgroundBlurWithMask': Can't find file.
+[2022.11.08-08.21.56:681][  0]LogLinker: [AssetLog] D:\Программы\Prologue\MyProject\Content\Machinick\Box-Item\Game-BoxItem.uasset: Failed to load '/Script/BackgroundBlurWithMask': Can't find file.
+[2022.11.08-08.21.56:682][  0]LogLinker: [AssetLog] D:\Программы\Prologue\MyProject\Content\Machinick\Box-Item\Game-BoxItem.uasset: Failed to load '/Script/BackgroundBlurWithMask': Can't find file.
+[2022.11.08-08.21.56:682][  0]LogLinker: [AssetLog] D:\Программы\Prologue\MyProject\Content\Machinick\Box-Item\Game-BoxItem.uasset: Failed to load '/Script/BackgroundBlurWithMask': Can't find file.
+[2022.11.08-08.21.56:682][  0]LogLinker: [AssetLog] D:\Программы\Prologue\MyProject\Content\Machinick\Box-Item\Game-BoxItem.uasset: Failed to load '/Script/BackgroundBlurWithMask': Can't find file.
+[2022.11.08-08.21.56:682][  0]LogLinker: [AssetLog] D:\Программы\Prologue\MyProject\Content\Machinick\Box-Item\Game-BoxItem.uasset: Failed to load '/Script/BackgroundBlurWithMask': Can't find file.
+[2022.11.08-08.21.56:682][  0]LogLinker: [AssetLog] D:\Программы\Prologue\MyProject\Content\Machinick\Box-Item\Game-BoxItem.uasset: Failed to load '/Script/BackgroundBlurWithMask': Can't find file.
+[2022.11.08-08.21.56:682][  0]LogLinker: [AssetLog] D:\Программы\Prologue\MyProject\Content\Machinick\Box-Item\Game-BoxItem.uasset: Failed to load '/Script/BackgroundBlurWithMask': Can't find file.
+[2022.11.08-08.21.56:683][  0]LogLinker: [AssetLog] D:\Программы\Prologue\MyProject\Content\Machinick\Box-Item\Game-BoxItem.uasset: Failed to load '/Script/BackgroundBlurWithMask': Can't find file.
+[2022.11.08-08.21.56:683][  0]LogLinker: [AssetLog] D:\Программы\Prologue\MyProject\Content\Machinick\Box-Item\Game-BoxItem.uasset: Failed to load '/Script/BackgroundBlurWithMask': Can't find file.
+[2022.11.08-08.21.56:683][  0]LogLinker: [AssetLog] D:\Программы\Prologue\MyProject\Content\Machinick\Box-Item\Game-BoxItem.uasset: Failed to load '/Script/BackgroundBlurWithMask': Can't find file.
+[2022.11.08-08.21.56:683][  0]LogLinker: [AssetLog] D:\Программы\Prologue\MyProject\Content\Machinick\Box-Item\Game-BoxItem.uasset: Failed to load '/Script/BackgroundBlurWithMask': Can't find file.
+[2022.11.08-08.21.56:683][  0]LogLinker: [AssetLog] D:\Программы\Prologue\MyProject\Content\Machinick\Box-Item\Game-BoxItem.uasset: Failed to load '/Script/BackgroundBlurWithMask': Can't find file.
+[2022.11.08-08.21.56:683][  0]LogLinker: [AssetLog] D:\Программы\Prologue\MyProject\Content\Machinick\Box-Item\Game-BoxItem.uasset: Failed to load '/Script/BackgroundBlurWithMask': Can't find file.
+[2022.11.08-08.21.56:683][  0]LogLinker: [AssetLog] D:\Программы\Prologue\MyProject\Content\Machinick\Box-Item\Game-BoxItem.uasset: Failed to load '/Script/BackgroundBlurWithMask': Can't find file.
+[2022.11.08-08.21.56:684][  0]LogLinker: [AssetLog] D:\Программы\Prologue\MyProject\Content\Machinick\Box-Item\Game-BoxItem.uasset: Failed to load '/Script/BackgroundBlurWithMask': Can't find file.
+[2022.11.08-08.21.56:684][  0]LogLinker: [AssetLog] D:\Программы\Prologue\MyProject\Content\Machinick\Box-Item\Game-BoxItem.uasset: Failed to load '/Script/BackgroundBlurWithMask': Can't find file.
+[2022.11.08-08.21.56:703][  0]LogLinker: [AssetLog] D:\Программы\Prologue\MyProject\Content\Machinick\Box-Item\Game-BoxItem.uasset: Failed to load '/Script/BackgroundBlurWithMask': Can't find file.
+[2022.11.08-08.21.56:703][  0]LogLinker: [AssetLog] D:\Программы\Prologue\MyProject\Content\Machinick\Box-Item\Game-BoxItem.uasset: Failed to load '/Script/BackgroundBlurWithMask': Can't find file.
+[2022.11.08-08.21.56:703][  0]LogLinker: [AssetLog] D:\Программы\Prologue\MyProject\Content\Machinick\Box-Item\Game-BoxItem.uasset: Failed to load '/Script/BackgroundBlurWithMask': Can't find file.
+[2022.11.08-08.21.56:703][  0]LogLinker: [AssetLog] D:\Программы\Prologue\MyProject\Content\Machinick\Box-Item\Game-BoxItem.uasset: Failed to load '/Script/BackgroundBlurWithMask': Can't find file.
+[2022.11.08-08.21.56:800][  0]LogLinker: [AssetLog] D:\Программы\Prologue\MyProject\Content\Machinick\Box-Item\Game-BoxItem.uasset: Failed to load '/Script/BackgroundBlurWithMask': Can't find file.
+[2022.11.08-08.21.56:800][  0]LogLinker: [AssetLog] D:\Программы\Prologue\MyProject\Content\Machinick\Box-Item\Game-BoxItem.uasset: Failed to load '/Script/BackgroundBlurWithMask': Can't find file.
+[2022.11.08-08.21.56:800][  0]LogLinker: [AssetLog] D:\Программы\Prologue\MyProject\Content\Machinick\Box-Item\Game-BoxItem.uasset: Failed to load '/Script/BackgroundBlurWithMask': Can't find file.
+[2022.11.08-08.21.56:822][  0]LogLinker: [AssetLog] D:\Программы\Prologue\MyProject\Content\Machinick\Box-Item\Game-BoxItem.uasset: Failed to load '/Script/BackgroundBlurWithMask': Can't find file.
+[2022.11.08-08.21.56:895][  0]LogLinker: [AssetLog] D:\Программы\Prologue\MyProject\Content\Machinick\Box-Item\Game-BoxItem.uasset: Failed to load '/Script/BackgroundBlurWithMask': Can't find file.
+[2022.11.08-08.21.56:895][  0]LogLinker: [AssetLog] D:\Программы\Prologue\MyProject\Content\Machinick\Box-Item\Game-BoxItem.uasset: Failed to load '/Script/BackgroundBlurWithMask': Can't find file.
+[2022.11.08-08.22.20:931][  0]LogTemp: Loading shader for Niagara script NS_Ring/NE_Noise/ParticleGPUComputeScript from DDC failed. Shader needs recompile.
+[2022.11.08-08.22.20:937][  0]LogTemp: Loading shader for Niagara script NS_Ring/NE_Noise001/ParticleGPUComputeScript from DDC failed. Shader needs recompile.
+[2022.11.08-08.22.21:935][  0]LogTemp: Loading shader for Niagara script NS_Octo/NE_Noise/ParticleGPUComputeScript from DDC failed. Shader needs recompile.
+[2022.11.08-08.22.21:938][  0]LogTemp: Loading shader for Niagara script NS_Octo/NE_Noise001/ParticleGPUComputeScript from DDC failed. Shader needs recompile.
+[2022.11.08-08.22.21:940][  0]LogTemp: Loading shader for Niagara script NS_Octo/NE_Noise002/ParticleGPUComputeScript from DDC failed. Shader needs recompile.
+[2022.11.08-08.22.21:942][  0]LogTemp: Loading shader for Niagara script NS_Octo/NE_Noise003/ParticleGPUComputeScript from DDC failed. Shader needs recompile.
+[2022.11.08-08.22.21:944][  0]LogTemp: Loading shader for Niagara script NS_Octo/NE_Noise004/ParticleGPUComputeScript from DDC failed. Shader needs recompile.
+[2022.11.08-08.22.21:946][  0]LogTemp: Loading shader for Niagara script NS_Octo/NE_Noise005/ParticleGPUComputeScript from DDC failed. Shader needs recompile.
+[2022.11.08-08.22.21:948][  0]LogTemp: Loading shader for Niagara script NS_Octo/NE_Noise006/ParticleGPUComputeScript from DDC failed. Shader needs recompile.
+[2022.11.08-08.22.21:950][  0]LogTemp: Loading shader for Niagara script NS_Octo/NE_Noise007/ParticleGPUComputeScript from DDC failed. Shader needs recompile.
+[2022.11.08-08.22.22:155][  0]LogTemp: Loading shader for Niagara script NS_FireFly/LeavesFall/ParticleGPUComputeScript from DDC failed. Shader needs recompile.
+[2022.11.08-08.22.22:215][  0]LogGatherTextFromAssetsCommandlet: Display: Package '/Game/_MAPS/2_DeadWorld' produced 8 error(s) and 16 warning(s) while loading (see below). Please verify that your text has gathered correctly.
+[2022.11.08-08.22.22:215][  0]Display:     LogBlueprint: [AssetLog] D:\Программы\Prologue\MyProject\Content\Main\UI\WG-BaseMenu\BaseMenu.uasset: [Compiler] Can't connect pins  Background Blur with Mask 0  and  Target : Object Reference is not compatible with Widget Object Reference. from Source: /Game/Main/UI/WG-BaseMenu/BaseMenu.BaseMenu
+[2022.11.08-08.22.22:216][  0]Display:     LogBlueprint: [AssetLog] D:\Программы\Prologue\MyProject\Content\Main\UI\WG-BaseMenu\BaseMenu.uasset: [Compiler] Could not find a variable named "BackgroundBlurWithMask_0" in 'BaseMenu_C'.
+Make sure 'BaseMenu_C' has been compiled for  Get BackgroundBlurWithMask_0
+[2022.11.08-08.22.22:217][  0]Display:     LogBlueprint: [AssetLog] D:\Программы\Prologue\MyProject\Content\Main\UI\WG-BaseMenu\BaseMenu.uasset: [Compiler] Can't connect pins  Target  and  Background Blur with Mask 0 : Widget Object Reference is not compatible with Object Reference. from Source: /Game/Main/UI/WG-BaseMenu/BaseMenu.BaseMenu
+[2022.11.08-08.22.22:218][  0]Display:     LogBlueprint: [AssetLog] D:\Программы\Prologue\MyProject\Content\Main\UI\WG-BaseMenu\BaseMenu.uasset: [Compiler] Can't connect pins  Target  and  Background Blur with Mask 0 : Widget Object Reference is not compatible with Object Reference. from Source: /Game/Main/UI/WG-BaseMenu/BaseMenu.BaseMenu
+[2022.11.08-08.22.22:218][  0]Display:     LogBlueprint: [AssetLog] D:\Программы\Prologue\MyProject\Content\Main\UI\WG-BaseMenu\BaseMenu.uasset: [Compiler] On Clicked (Quit)  does not have a valid matching component!
+[2022.11.08-08.22.22:219][  0]Display:     LogBlueprint: [AssetLog] D:\Программы\Prologue\MyProject\Content\Main\UI\WG-BaseMenu\BaseMenu.uasset: [Compiler] On Clicked (NewGame)  does not have a valid matching component!
+[2022.11.08-08.22.22:220][  0]Display:     LogBlueprint: [AssetLog] D:\Программы\Prologue\MyProject\Content\Main\UI\WG-BaseMenu\BaseMenu.uasset: [Compiler] On Clicked (Setting)  does not have a valid matching component!
+[2022.11.08-08.22.22:220][  0]Display:     LogBlueprint: [AssetLog] D:\Программы\Prologue\MyProject\Content\Main\UI\WG-BaseMenu\BaseMenu.uasset: [Compiler] On Hovered (NewGame)  does not have a valid matching component!
+[2022.11.08-08.22.22:221][  0]Display:     LogBlueprint: [AssetLog] D:\Программы\Prologue\MyProject\Content\Main\UI\WG-BaseMenu\BaseMenu.uasset: [Compiler] On Unhovered (NewGame)  does not have a valid matching component!
+[2022.11.08-08.22.22:222][  0]Display:     LogBlueprint: [AssetLog] D:\Программы\Prologue\MyProject\Content\Main\UI\WG-BaseMenu\BaseMenu.uasset: [Compiler] On Hovered (Setting)  does not have a valid matching component!
+[2022.11.08-08.22.22:222][  0]Display:     LogBlueprint: [AssetLog] D:\Программы\Prologue\MyProject\Content\Main\UI\WG-BaseMenu\BaseMenu.uasset: [Compiler] On Unhovered (Setting)  does not have a valid matching component!
+[2022.11.08-08.22.22:223][  0]Display:     LogBlueprint: [AssetLog] D:\Программы\Prologue\MyProject\Content\Main\UI\WG-BaseMenu\BaseMenu.uasset: [Compiler] On Hovered (Help)  does not have a valid matching component!
+[2022.11.08-08.22.22:223][  0]Display:     LogBlueprint: [AssetLog] D:\Программы\Prologue\MyProject\Content\Main\UI\WG-BaseMenu\BaseMenu.uasset: [Compiler] On Unhovered (Help)  does not have a valid matching component!
+[2022.11.08-08.22.22:224][  0]Display:     LogBlueprint: [AssetLog] D:\Программы\Prologue\MyProject\Content\Main\UI\WG-BaseMenu\BaseMenu.uasset: [Compiler] On Hovered (Quit)  does not have a valid matching component!
+[2022.11.08-08.22.22:224][  0]Display:     LogBlueprint: [AssetLog] D:\Программы\Prologue\MyProject\Content\Main\UI\WG-BaseMenu\BaseMenu.uasset: [Compiler] On Unhovered (Quit)  does not have a valid matching component!
+[2022.11.08-08.22.22:225][  0]Display:     LogBlueprint: [AssetLog] D:\Программы\Prologue\MyProject\Content\Main\UI\WG-BaseMenu\BaseMenu.uasset: [Compiler] On Clicked (Help)  does not have a valid matching component!
+[2022.11.08-08.22.22:226][  0]Display:     LogBlueprint: [AssetLog] D:\Программы\Prologue\MyProject\Content\Main\UI\WG-BaseMenu\BaseMenu.uasset: [Compiler] The property associated with  New Game Text  could not be found in '/Game/Main/UI/WG-BaseMenu/BaseMenu.BaseMenu_C' from Source: /Game/Main/UI/WG-BaseMenu/BaseMenu.BaseMenu
+[2022.11.08-08.22.22:226][  0]Display:     LogBlueprint: [AssetLog] D:\Программы\Prologue\MyProject\Content\Main\UI\WG-BaseMenu\BaseMenu.uasset: [Compiler] The property associated with  Help Text  could not be found in '/Game/Main/UI/WG-BaseMenu/BaseMenu.BaseMenu_C' from Source: /Game/Main/UI/WG-BaseMenu/BaseMenu.BaseMenu
+[2022.11.08-08.22.22:227][  0]Display:     LogBlueprint: [AssetLog] D:\Программы\Prologue\MyProject\Content\Main\UI\WG-BaseMenu\BaseMenu.uasset: [Compiler] The property associated with  Setting Text  could not be found in '/Game/Main/UI/WG-BaseMenu/BaseMenu.BaseMenu_C' from Source: /Game/Main/UI/WG-BaseMenu/BaseMenu.BaseMenu
+[2022.11.08-08.22.22:228][  0]Display:     LogBlueprint: [AssetLog] D:\Программы\Prologue\MyProject\Content\Main\UI\WG-BaseMenu\BaseMenu.uasset: [Compiler] The property associated with  Quittext  could not be found in '/Game/Main/UI/WG-BaseMenu/BaseMenu.BaseMenu_C' from Source: /Game/Main/UI/WG-BaseMenu/BaseMenu.BaseMenu
+[2022.11.08-08.22.22:229][  0]Display:     LogBlueprint: [AssetLog] D:\Программы\Prologue\MyProject\Content\Main\UI\WG-BaseMenu\BaseMenu.uasset: [Compiler] The property associated with  Background Blur with Mask 0  could not be found in '/Game/Main/UI/WG-BaseMenu/BaseMenu.BaseMenu_C' from Source: /Game/Main/UI/WG-BaseMenu/BaseMenu.BaseMenu
+[2022.11.08-08.22.22:229][  0]Display:     LogBlueprint: [AssetLog] D:\Программы\Prologue\MyProject\Content\_Props_2\Core\Character\Main_Character.uasset: [Compiler] InputAction Event references unknown Action 'Escc' for  InputAction Escc
+[2022.11.08-08.22.22:230][  0]Display:     LogPhysics: Failed to cook TriMesh: /Game/_Props/Apothecary/Blueprints/Lightshaft/SM_GodRay_Plane.SM_GodRay_Plane.
+[2022.11.08-08.22.22:230][  0]Display:     LogPhysics: Attempt to build physics data for /Game/_Props/Apothecary/Blueprints/Lightshaft/SM_GodRay_Plane.SM_GodRay_Plane:BodySetup_367 when we are unable to.
+[2022.11.08-08.22.27:905][  0]LogLinker: [AssetLog] D:\Программы\Prologue\MyProject\Content\_MAPS\1_Castle_2.umap: Failed to load '/Game/Flipbooks/Images/Setz/111_2': Can't find file.
+[2022.11.08-08.22.27:942][  0]LogLinker: [AssetLog] D:\Программы\Prologue\MyProject\Content\_MAPS\1_Castle_2.umap: Failed to load '/Game/Flipbooks/Images/Setz/111_2': Can't find file.
+[2022.11.08-08.22.27:946][  0]LogLinker: Failed to load '/Game/Flipbooks/Images/Setz/111_2': Can't find file.
+[2022.11.08-08.22.27:946][  0]LogLinker: Failed to load '/Game/Flipbooks/Images/Setz/111_2': Can't find file.
+[2022.11.08-08.22.28:093][  0]LogLinker: [AssetLog] D:\Программы\Prologue\MyProject\Content\_MAPS\1_Castle_2.umap: Failed to load '/Game/Flipbooks/Images/Setz/111_2': Can't find file.
+[2022.11.08-08.22.28:192][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/T_ClearSky.T_ClearSky', its maximum texture size has been explicitly set to 512.
+[2022.11.08-08.22.30:401][  0]LogMeshUtilities: Finished distance field build in 12.3s - 76x22x112 distance field, 442 triangles, Range [-0.0, 0.7], SM_Window_Roof_01a
+[2022.11.08-08.22.30:401][  0]LogMeshUtilities: Finished distance field build in 0.1s - 8x8x8 distance field, 1180 triangles, Range [-0.4, 0.8], SM_A_Skull_01
+[2022.11.08-08.22.30:401][  0]LogTemp: Loading shader for Niagara script NS_SmallWind_Leaves_Blow/ground/ParticleGPUComputeScript from DDC failed. Shader needs recompile.
+[2022.11.08-08.22.33:563][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 876 triangles, Range [-0.0, 0.8], SM_A_Pelvis_01
+[2022.11.08-08.22.33:563][  0]LogTemp: Loading shader for Niagara script NS_SmallWind_Leaves_Blow/parts002/ParticleGPUComputeScript from DDC failed. Shader needs recompile.
+[2022.11.08-08.22.33:568][  0]LogTemp: Loading shader for Niagara script NS_SmallWind_Leaves_Blow/parts003/ParticleGPUComputeScript from DDC failed. Shader needs recompile.
+[2022.11.08-08.22.33:574][  0]LogTemp: Loading shader for Niagara script NS_SmallWind_Leaves_Blow/parts004/ParticleGPUComputeScript from DDC failed. Shader needs recompile.
+[2022.11.08-08.22.33:977][  0]LogLinker: [AssetLog] D:\Программы\Prologue\MyProject\Content\_MAPS\1_Castle.umap: Failed to load '/Game/_MAPS/1_Castle_BuiltData': Can't find file.
+[2022.11.08-08.22.33:980][  0]LogLinker: [AssetLog] D:\Программы\Prologue\MyProject\Content\_MAPS\1_Castle.umap: Failed to load '/Game/_MAPS/1_Castle_BuiltData': Can't find file.
+[2022.11.08-08.22.33:989][  0]LogLinker: Failed to load '/Game/_MAPS/1_Castle_BuiltData': Can't find file.
+[2022.11.08-08.22.33:989][  0]LogLinker: Failed to load '/Game/_MAPS/1_Castle_BuiltData': Can't find file.
+[2022.11.08-08.22.34:059][  0]LogLinker: [AssetLog] D:\Программы\Prologue\MyProject\Content\_MAPS\1_Castle.umap: Failed to load '/Game/_MAPS/1_Castle_BuiltData': Can't find file.
+[2022.11.08-08.22.39:245][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EngineResources/GrayLightTextureCube.GrayLightTextureCube', its maximum texture size has been explicitly set to 512.
+[2022.11.08-08.22.40:961][  0]LogMeshUtilities: Finished distance field build in 8.9s - 64x64x44 distance field, 1349 triangles, Range [-0.0, 1.0], SM_A_Carpet_01
+[2022.11.08-08.22.40:961][  0]LogLinker: [AssetLog] D:\Программы\Prologue\MyProject\Content\_MAPS\Menu.umap: Failed to load '/Game/_MAPS/Menu_BuiltData': Can't find file.
+[2022.11.08-08.22.40:964][  0]LogLinker: [AssetLog] D:\Программы\Prologue\MyProject\Content\_MAPS\Menu.umap: Failed to load '/Game/_MAPS/Menu_BuiltData': Can't find file.
+[2022.11.08-08.22.40:982][  0]LogLinker: Failed to load '/Game/_MAPS/Menu_BuiltData': Can't find file.
+[2022.11.08-08.22.40:983][  0]LogLinker: Failed to load '/Game/_MAPS/Menu_BuiltData': Can't find file.
+[2022.11.08-08.22.41:015][  0]LogLinker: [AssetLog] D:\Программы\Prologue\MyProject\Content\_MAPS\Menu.umap: Failed to load '/Game/_MAPS/Menu_BuiltData': Can't find file.
+[2022.11.08-08.22.41:144][  0]LogLocTextHelper: Warning: Text conflict for namespace "" and key "0AA2D3C947E7DA4D373ACAB800DCDADE" at "/Game/Shimaletik/inv/ui/Inventory.Inventory_C:WidgetTree.Text.Text" and "/Game/Main/UI/WG-Game/WG-GameMain.WG-GameMain_C:WidgetTree.ShowInventory.Text". The conflicting sources are "Show I" and "Показать инвентарь ( Редактор)".
+[2022.11.08-08.22.41:145][  0]LogLocTextHelper: Warning: Text conflict for namespace "" and key "0AA2D3C947E7DA4D373ACAB800DCDADE" at "/Game/Shimaletik/inv/ui/Inventory.Inventory:WidgetTree.Text.Text" and "/Game/Main/UI/WG-Game/WG-GameMain.WG-GameMain_C:WidgetTree.ShowInventory.Text". The conflicting sources are "Show I" and "Показать инвентарь ( Редактор)".
+[2022.11.08-08.22.41:146][  0]LogLocTextHelper: Warning: Text conflict for namespace "" and key "0AA2D3C947E7DA4D373ACAB800DCDADE" at "/Game/Shimaletik/inv/ui/Inventory.Inventory_C:WidgetTree.Text.Text" and "/Game/Main/UI/WG-Game/WG-GameMain.WG-GameMain_C:WidgetTree.ShowInventory.Text". The conflicting sources are "Show I" and "Показать инвентарь ( Редактор)".
+[2022.11.08-08.22.41:160][  0]LogGatherTextFromAssetsCommandlet: Display: Loaded 100 packages in batch 1 of 5. 0 failed.
+[2022.11.08-08.22.41:507][  0]LogUObjectHash: Compacting FUObjectHashTables data took  19.94ms
+[2022.11.08-08.22.42:007][  0]LogGatherTextFromAssetsCommandlet: Display: Loaded 100 packages in batch 2 of 5. 0 failed.
+[2022.11.08-08.22.42:176][  0]LogUObjectHash: Compacting FUObjectHashTables data took  12.38ms
+[2022.11.08-08.22.42:266][  0]LogGatherTextFromAssetsCommandlet: Display: Loaded 100 packages in batch 3 of 5. 0 failed.
+[2022.11.08-08.22.42:447][  0]LogUObjectHash: Compacting FUObjectHashTables data took  12.63ms
+[2022.11.08-08.22.42:489][  0]LogGatherTextFromAssetsCommandlet: Display: Loaded 100 packages in batch 4 of 5. 0 failed.
+[2022.11.08-08.22.43:214][  0]LogUObjectHash: Compacting FUObjectHashTables data took  15.50ms
+[2022.11.08-08.22.44:303][  0]LogGatherTextFromAssetsCommandlet: Display: Loaded 53 packages in batch 5 of 5. 0 failed.
+[2022.11.08-08.22.44:304][  0]LogGatherTextCommandlet: Display: Completed GatherTextStep1: GatherTextFromAssetsCommandlet in 52.347158 seconds
+[2022.11.08-08.22.44:304][  0]LogGatherTextCommandlet: Display: Executing GatherTextStep2: GatherTextFromMetadataCommandlet
+[2022.11.08-08.22.44:939][  0]LogGatherTextCommandlet: Display: Completed GatherTextStep2: GatherTextFromMetadataCommandlet in 0.635561 seconds
+[2022.11.08-08.22.44:940][  0]LogGatherTextCommandlet: Display: Executing GatherTextStep3: GenerateGatherManifestCommandlet
+[2022.11.08-08.22.44:976][  0]LogGatherTextCommandlet: Display: Completed GatherTextStep3: GenerateGatherManifestCommandlet in 0.036096 seconds
+[2022.11.08-08.22.44:977][  0]LogGatherTextCommandlet: Display: Executing GatherTextStep4: GenerateGatherArchiveCommandlet
+[2022.11.08-08.22.45:488][  0]LogGatherTextCommandlet: Display: Completed GatherTextStep4: GenerateGatherArchiveCommandlet in 0.510710 seconds
+[2022.11.08-08.22.45:488][  0]LogGatherTextCommandlet: Display: Executing GatherTextStep5: GenerateTextLocalizationReportCommandlet
+[2022.11.08-08.22.45:791][  0]LogGatherTextCommandlet: Display: Completed GatherTextStep5: GenerateTextLocalizationReportCommandlet in 0.302561 seconds
+[2022.11.08-08.22.45:791][  0]LogCore: Engine exit requested (reason: Commandlet GatherTextCommandlet_0 finished execution (result 0))
+[2022.11.08-08.22.45:791][  0]LogInit: Display: 
+[2022.11.08-08.22.45:792][  0]LogInit: Display: Warning/Error Summary (Unique only)
+[2022.11.08-08.22.45:792][  0]LogInit: Display: -----------------------------------
+[2022.11.08-08.22.45:792][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/Main/Saved/Setting' and '/Game/Main/Saved/SaveSetting' have the same localization ID (E0424B774D70BAAE0DF05D803E9CCB9E). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:793][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/Shimaletik/СистемаЗвуковПоденияПредметов/SoudnHisiObject' and '/Game/Shimaletik/Padenie/SoudnHisiObject' have the same localization ID (ADEC34304977A8F1A24216AD3BD9DA68). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:794][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/Core/Blueprints/PC_Play' and '/Game/Main/Main-Controller' have the same localization ID (6C6C0D154F1623D3283A6E8B92026833). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:795][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/Core/Character/Main_Character' and '/Game/Main/Character' have the same localization ID (740011E142E77D26BFFDCA82AE003DD2). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:796][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/EndOfTheWorld/Levels/WWWM_2' and '/Game/_MAPS/1_Castle' have the same localization ID (2FB2646143F7AF5E57BB33B6163BBAE4). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:797][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/Shimaletik/inv/ui/Inventory' and '/Game/Main/UI/WG-Game/WG-GameMain' have the same localization ID (518552DB4654457B0C70F497E1568381). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:797][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/Shimaletik/inv/ui/Inventory_slot--' and '/Game/Main/UI/WG-Game/WG-GameInventorySlot' have the same localization ID (D8101FA2483D42229A1CA5B8C1A14128). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:798][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/Cinematics_all/NewFont_2' and '/Game/_Props/ADD/NewFont_2' have the same localization ID (98C221DA41228AA9FFF99A9A51AD964F). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:799][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/Machinick/Material/OutLine/Old-PP_ObjectOutline_Master' and '/Game/PP_ObjectOutline_Master' have the same localization ID (A08C5C994AC0FF5C461014873CB09AFC). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:800][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/AdvancedGlassPack/Materials/05_Wet/M_Glass_WetMaster' and '/Game/_Props/ADD/AdvancedGlassPack/Materials/05_Wet/M_Glass_WetMaster' have the same localization ID (CF6A617542DA2DE625FE4C80661740B6). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:801][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/MedievalProps_Kit/Cellar/Materials/M_MasterMaterial' and '/Game/_Props/MedievalProps_Kit/Books_Scrolls_Paintings/Materials/M_MasterMaterial' have the same localization ID (A298B49A45A9F4A8DB5BE1A2D5032552). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:801][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/MedievalProps_Kit/Furniture/Materials/M_MasterMaterial' and '/Game/_Props/MedievalProps_Kit/Books_Scrolls_Paintings/Materials/M_MasterMaterial' have the same localization ID (A298B49A45A9F4A8DB5BE1A2D5032552). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:803][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/meshes/M5VFXVOL2/Materials/Master/Sequence_Mat' and '/Game/_Props/M5VFXVOL2/Materials/Master/Sequence_Mat' have the same localization ID (5800560D4B75C5D0322F8D8B0B0C2760). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:804][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/meshes/Medieval_Props_Kitchen/Materials/M_MasterMaterial' and '/Game/_Props/MedievalProps_Kit/Books_Scrolls_Paintings/Materials/M_MasterMaterial' have the same localization ID (A298B49A45A9F4A8DB5BE1A2D5032552). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:805][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/OthersPacks/BloodPack/MasterMaterialsAndTextures4k/M_Blood_Fresh' and '/Game/_Props/Deadly_Caverns/Assets/Materials/Master/MM_Simple_Decal' have the same localization ID (F5F478D940E51BC001D488AE824C11DC). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:806][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/Realistic_Starter_VFX_Pack/Materials/M_Smoke_A' and '/Game/_Props/EnvironmentalVFX/Materials/M_Smoke' have the same localization ID (F79FC3BD481F158E1DD6DF91BD110F44). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:806][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/EndOfTheWorld/ChackLight/Bat_Knocker_LoMat' and '/Game/_Props/EndOfTheWorld/ChackLight/Bat_Knocker_LoMat' have the same localization ID (FB6EFB7544BBACFBA4A40C9BAA199785). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:807][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/EndOfTheWorld/ChackLight/wwee' and '/Game/_Props/EndOfTheWorld/ChackLight/wwee' have the same localization ID (F038945E475A5033333703841C03D4E6). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:808][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/FantasyDungeon2/Materials/BaseMaterial/M_MainShader_V_12' and '/Game/_Props/FantasyDungeon2/Materials/BaseMaterial/M_MainShader_V_12' have the same localization ID (9FA04F1546875356D81CEB8A145B9FE4). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:809][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/HorrorDiningRoom/Materials/Master/Frames_master' and '/Game/_Props/HorrorDiningRoom/Materials/Master/Frames_master' have the same localization ID (1D1D1B50462BF9B08E561087250FD5BA). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:810][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/HorrorDiningRoom/Materials/Master/Master_mat' and '/Game/_Props/HorrorDiningRoom/Materials/Master/Master_mat' have the same localization ID (7F2230CA4FE0E1189C9317A3542E7504). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:810][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/Proj/Core/DLSM' and '/Game/DLSM_Mat/Core/DLSM' have the same localization ID (A44DE3BC4AC62920C54BC2948874B9F2). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:811][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/SpideEye/Material/Skin1/Mat_SpideEye_Skin1' and '/Game/_Props/SpideEye/Material/Skin1/Mat_SpideEye_Skin1' have the same localization ID (0465AD7E4F3661F7A5D4FAA9AC027B10). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:812][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/SpideEye/Material/Skin1/Mat_SpideEye_Skin1_Eye_Gloss' and '/Game/_Props/SpideEye/Material/Skin1/Mat_SpideEye_Skin1_Eye_Gloss' have the same localization ID (3A7B26EC466A1CDF1F1A67A6500697CB). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:813][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/VictorianLivingRoom/Materials/Master_Material/M_MasterMaterial' and '/Game/_Props/VictorianLivingRoom/Materials/Master_Material/M_MasterMaterial' have the same localization ID (3C4A3F5D4AAE53A283FF60A75BD537D1). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:813][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/Machinick/Material/OutLine/Old-OutLine-1' and '/Game/PP_ObjectOutline_Master_Inst' have the same localization ID (0BD29A794FBC66DD10E9A88484D08D7E). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:814][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/HorrorDiningRoom/Materials/Instances/Tray_mat' and '/Game/_Props/HorrorDiningRoom/Materials/Instances/Tray_mat' have the same localization ID (A45475E341D2A499A283C7B3FD1A1491). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:815][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/Proj/Core/DLSM_Inst' and '/Game/DLSM_Mat/Core/DLSM_Inst' have the same localization ID (9234416B40E9FEABFB3E84A0D20F9121). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:816][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/VictorianLivingRoom/Materials/M_Newspaper' and '/Game/_Props/VictorianLivingRoom/Materials/M_Newspaper' have the same localization ID (4CD0AFCA4051BEAD8BDBAEA744EF138A). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:817][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props_2/VictorianLivingRoom/Materials/M_Table' and '/Game/_Props/VictorianLivingRoom/Materials/M_Table' have the same localization ID (B18E70DB455606CF74CAA28556F826E0). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:818][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/Shimaletik/NeNavel' and '/Game/Main/UI/WG-Game/Inventory/Image/NeNavel' have the same localization ID (31D07C9B43C3C0327D1B9CA7C6841E71). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:818][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/CastleRiver/Textures/T_RiverWater_N' and '/Game/CastleRiver/Textures/T_RiverWater_N' have the same localization ID (CAD79BA847C2954D2B117EA9EE4A7E0B). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:819][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/MedievalProps_Kit/Cellar/Textures/Defaults/T_Default_1024_B' and '/Game/_Props/MedievalProps_Kit/Books_Scrolls_Paintings/Textures/Defaults/T_Default_1024_B' have the same localization ID (55F2CE6F4F5B181C38BB50BA31F2DFD5). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:820][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/MedievalProps_Kit/Cellar/Textures/Defaults/T_Default_1024_E' and '/Game/_Props/MedievalProps_Kit/Books_Scrolls_Paintings/Textures/Defaults/T_Default_1024_E' have the same localization ID (637200E6407BA9D9106EA5B319C276B1). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:820][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/MedievalProps_Kit/Cellar/Textures/Defaults/T_Default_1024_M' and '/Game/_Props/MedievalProps_Kit/Books_Scrolls_Paintings/Textures/Defaults/T_Default_1024_M' have the same localization ID (33107D5F4616092F2706D1A3ADD5452B). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:821][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/MedievalProps_Kit/Cellar/Textures/Defaults/T_Default_1024_N' and '/Game/_Props/MedievalProps_Kit/Books_Scrolls_Paintings/Textures/Defaults/T_Default_1024_N' have the same localization ID (61E983E641A547DA90C7ACB5262499EA). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:822][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/MedievalProps_Kit/Cellar/Textures/Defaults/T_Default_1024_RMA' and '/Game/_Props/MedievalProps_Kit/Books_Scrolls_Paintings/Textures/Defaults/T_Default_1024_RMA' have the same localization ID (5D72219145E733E62EDBB6B73CA40FC5). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:822][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/MedievalProps_Kit/Furniture/Textures/Defaults/T_Default_1024_B' and '/Game/_Props/MedievalProps_Kit/Books_Scrolls_Paintings/Textures/Defaults/T_Default_1024_B' have the same localization ID (55F2CE6F4F5B181C38BB50BA31F2DFD5). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:824][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/MedievalProps_Kit/Furniture/Textures/Defaults/T_Default_1024_E' and '/Game/_Props/MedievalProps_Kit/Books_Scrolls_Paintings/Textures/Defaults/T_Default_1024_E' have the same localization ID (637200E6407BA9D9106EA5B319C276B1). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:826][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/MedievalProps_Kit/Furniture/Textures/Defaults/T_Default_1024_M' and '/Game/_Props/MedievalProps_Kit/Books_Scrolls_Paintings/Textures/Defaults/T_Default_1024_M' have the same localization ID (33107D5F4616092F2706D1A3ADD5452B). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:826][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/MedievalProps_Kit/Furniture/Textures/Defaults/T_Default_1024_N' and '/Game/_Props/MedievalProps_Kit/Books_Scrolls_Paintings/Textures/Defaults/T_Default_1024_N' have the same localization ID (61E983E641A547DA90C7ACB5262499EA). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:827][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/MedievalProps_Kit/Furniture/Textures/Defaults/T_Default_1024_RMA' and '/Game/_Props/MedievalProps_Kit/Books_Scrolls_Paintings/Textures/Defaults/T_Default_1024_RMA' have the same localization ID (5D72219145E733E62EDBB6B73CA40FC5). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:828][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/meshes/M5VFXVOL2/Textures/CandleFire/CandleFire_D' and '/Game/_Props/M5VFXVOL2/Textures/CandleFire/CandleFire_D' have the same localization ID (18D0F01648A8CADF6C46F0A562C0E7E4). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:829][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/meshes/Medieval_Props_Kitchen/Textures/Defaults/T_Default_1024_B' and '/Game/_Props/MedievalProps_Kit/Books_Scrolls_Paintings/Textures/Defaults/T_Default_1024_B' have the same localization ID (55F2CE6F4F5B181C38BB50BA31F2DFD5). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:830][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/meshes/Medieval_Props_Kitchen/Textures/Defaults/T_Default_1024_E' and '/Game/_Props/MedievalProps_Kit/Books_Scrolls_Paintings/Textures/Defaults/T_Default_1024_E' have the same localization ID (637200E6407BA9D9106EA5B319C276B1). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:831][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/meshes/Medieval_Props_Kitchen/Textures/Defaults/T_Default_1024_M' and '/Game/_Props/MedievalProps_Kit/Books_Scrolls_Paintings/Textures/Defaults/T_Default_1024_M' have the same localization ID (33107D5F4616092F2706D1A3ADD5452B). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:832][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/meshes/Medieval_Props_Kitchen/Textures/Defaults/T_Default_1024_N' and '/Game/_Props/MedievalProps_Kit/Books_Scrolls_Paintings/Textures/Defaults/T_Default_1024_N' have the same localization ID (61E983E641A547DA90C7ACB5262499EA). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:832][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/meshes/Medieval_Props_Kitchen/Textures/Defaults/T_Default_1024_RMA' and '/Game/_Props/MedievalProps_Kit/Books_Scrolls_Paintings/Textures/Defaults/T_Default_1024_RMA' have the same localization ID (5D72219145E733E62EDBB6B73CA40FC5). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:833][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/OldHuntersManor/Textures/NormalColor' and '/Game/_Props/meshes/OldHuntersManor/Textures/NormalColor' have the same localization ID (3D9DD8374E66FC0B5B8292A0681E973E). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:834][  0]LogInit: Display: LogGatherTextFromAssetsCommandlet: Warning: Package '/Game/_Props/OldHuntersManor/Textures/WhiteColor' and '/Game/_Props/meshes/OldHuntersManor/Textures/WhiteColor' have the same localization ID (342836554871883C81283D8ED8CAAA01). Please reset one of these (Asset Localization -> Reset Localization ID) to avoid conflicts.
+[2022.11.08-08.22.45:835][  0]LogInit: Display: NOTE: Only first 50 warnings displayed.
+[2022.11.08-08.22.45:836][  0]LogInit: Display: 
+[2022.11.08-08.22.45:836][  0]LogInit: Display: Success - 0 error(s), 132 warning(s)
+[2022.11.08-08.22.45:836][  0]LogInit: Display: 
+Execution of commandlet took:  58.06 seconds
+[2022.11.08-08.22.45:836][  0]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.11.08-08.22.45:836][  0]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2022.11.08-08.22.52:562][  0]LogMeshUtilities: Finished distance field build in 13.3s - 78x29x128 distance field, 702 triangles, Range [-0.0, 0.4], SM_Window_01a
+[2022.11.08-08.22.52:563][  0]LogExit: Preparing to exit.
+[2022.11.08-08.22.52:761][  0]LogUObjectHash: Compacting FUObjectHashTables data took   8.48ms
+[2022.11.08-08.22.53:364][  0]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.11.08-08.22.53:371][  0]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.11.08-08.22.53:372][  0]LogExit: Editor shut down
+[2022.11.08-08.22.53:627][  0]LogExit: Object subsystem successfully closed.
+[2022.11.08-08.22.53:637][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.08-08.22.53:637][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.11.08-08.22.53:638][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.11.08-08.22.53:638][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.11.08-08.22.53:639][  0]LogShaderCompilers: Display: ================================================
+[2022.11.08-08.22.53:649][  0]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.11.08-08.22.53:664][  0]LogModuleManager: Shutting down and abandoning module SteamVREditor (712)
+[2022.11.08-08.22.53:664][  0]LogModuleManager: Shutting down and abandoning module OculusMR (710)
+[2022.11.08-08.22.53:664][  0]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (708)
+[2022.11.08-08.22.53:665][  0]LogModuleManager: Shutting down and abandoning module TakeRecorder (707)
+[2022.11.08-08.22.53:665][  0]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (704)
+[2022.11.08-08.22.53:665][  0]LogModuleManager: Shutting down and abandoning module TakesCore (702)
+[2022.11.08-08.22.53:665][  0]LogModuleManager: Shutting down and abandoning module OpenXRInput (700)
+[2022.11.08-08.22.53:665][  0]LogModuleManager: Shutting down and abandoning module GooglePADEditor (698)
+[2022.11.08-08.22.53:665][  0]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (696)
+[2022.11.08-08.22.53:665][  0]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (694)
+[2022.11.08-08.22.53:665][  0]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (692)
+[2022.11.08-08.22.53:665][  0]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (690)
+[2022.11.08-08.22.53:665][  0]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (688)
+[2022.11.08-08.22.53:665][  0]LogModuleManager: Shutting down and abandoning module Kismet (687)
+[2022.11.08-08.22.53:687][  0]LogModuleManager: Shutting down and abandoning module KismetWidgets (686)
+[2022.11.08-08.22.53:687][  0]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (682)
+[2022.11.08-08.22.53:687][  0]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (680)
+[2022.11.08-08.22.53:687][  0]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (678)
+[2022.11.08-08.22.53:687][  0]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (676)
+[2022.11.08-08.22.53:687][  0]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (674)
+[2022.11.08-08.22.53:687][  0]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (672)
+[2022.11.08-08.22.53:687][  0]LogModuleManager: Shutting down and abandoning module SequenceRecorder (671)
+[2022.11.08-08.22.53:687][  0]LogModuleManager: Shutting down and abandoning module Persona (670)
+[2022.11.08-08.22.53:687][  0]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (669)
+[2022.11.08-08.22.53:687][  0]LogModuleManager: Shutting down and abandoning module AnimGraph (667)
+[2022.11.08-08.22.53:687][  0]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (662)
+[2022.11.08-08.22.53:687][  0]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (660)
+[2022.11.08-08.22.53:687][  0]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (658)
+[2022.11.08-08.22.53:687][  0]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (656)
+[2022.11.08-08.22.53:687][  0]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (654)
+[2022.11.08-08.22.53:688][  0]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (652)
+[2022.11.08-08.22.53:688][  0]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (650)
+[2022.11.08-08.22.53:688][  0]LogModuleManager: Shutting down and abandoning module PlanarCut (648)
+[2022.11.08-08.22.53:688][  0]LogModuleManager: Shutting down and abandoning module CharacterAI (646)
+[2022.11.08-08.22.53:688][  0]LogModuleManager: Shutting down and abandoning module TextureAlignMode (644)
+[2022.11.08-08.22.53:688][  0]LogModuleManager: Shutting down and abandoning module BspMode (642)
+[2022.11.08-08.22.53:688][  0]LogModuleManager: Shutting down and abandoning module GeometryMode (640)
+[2022.11.08-08.22.53:688][  0]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (638)
+[2022.11.08-08.22.53:688][  0]LogModuleManager: Shutting down and abandoning module SmartSnapping (636)
+[2022.11.08-08.22.53:688][  0]LogModuleManager: Shutting down and abandoning module SessionServices (634)
+[2022.11.08-08.22.53:688][  0]LogModuleManager: Shutting down and abandoning module MeshPaint (632)
+[2022.11.08-08.22.53:688][  0]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (630)
+[2022.11.08-08.22.53:688][  0]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2022.11.08-08.22.53:688][  0]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2022.11.08-08.22.53:688][  0]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2022.11.08-08.22.53:688][  0]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2022.11.08-08.22.53:688][  0]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2022.11.08-08.22.53:688][  0]LogModuleManager: Shutting down and abandoning module PlacementMode (618)
+[2022.11.08-08.22.53:688][  0]LogModuleManager: Shutting down and abandoning module LiveCoding (616)
+[2022.11.08-08.22.53:688][  0]LogModuleManager: Shutting down and abandoning module LevelSequence (614)
+[2022.11.08-08.22.53:688][  0]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (612)
+[2022.11.08-08.22.53:688][  0]LogModuleManager: Shutting down and abandoning module MovieScene (610)
+[2022.11.08-08.22.53:688][  0]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (608)
+[2022.11.08-08.22.53:688][  0]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (606)
+[2022.11.08-08.22.53:690][  0]LogModuleManager: Shutting down and abandoning module AIModule (604)
+[2022.11.08-08.22.53:691][  0]LogModuleManager: Shutting down and abandoning module GameplayDebugger (603)
+[2022.11.08-08.22.53:691][  0]LogModuleManager: Shutting down and abandoning module AITestSuite (601)
+[2022.11.08-08.22.53:691][  0]LogModuleManager: Shutting down and abandoning module NavigationSystem (599)
+[2022.11.08-08.22.53:691][  0]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (596)
+[2022.11.08-08.22.53:691][  0]LogModuleManager: Shutting down and abandoning module OculusEditor (594)
+[2022.11.08-08.22.53:691][  0]LogModuleManager: Shutting down and abandoning module OculusInput (592)
+[2022.11.08-08.22.53:691][  0]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (590)
+[2022.11.08-08.22.53:691][  0]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (588)
+[2022.11.08-08.22.53:691][  0]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (586)
+[2022.11.08-08.22.53:691][  0]LogModuleManager: Shutting down and abandoning module ToolMenus (585)
+[2022.11.08-08.22.53:691][  0]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (582)
+[2022.11.08-08.22.53:691][  0]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (580)
+[2022.11.08-08.22.53:691][  0]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (578)
+[2022.11.08-08.22.53:691][  0]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (576)
+[2022.11.08-08.22.53:691][  0]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (574)
+[2022.11.08-08.22.53:691][  0]LogModuleManager: Shutting down and abandoning module LiveLink (572)
+[2022.11.08-08.22.54:553][  0]LogModuleManager: Shutting down and abandoning module TakeSequencer (570)
+[2022.11.08-08.22.54:553][  0]LogModuleManager: Shutting down and abandoning module TakeMovieScene (568)
+[2022.11.08-08.22.54:553][  0]LogModuleManager: Shutting down and abandoning module ScreenshotTools (566)
+[2022.11.08-08.22.54:553][  0]LogModuleManager: Shutting down and abandoning module SynthesisEditor (564)
+[2022.11.08-08.22.54:553][  0]LogModuleManager: Shutting down and abandoning module Synthesis (562)
+[2022.11.08-08.22.54:553][  0]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (560)
+[2022.11.08-08.22.54:553][  0]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (558)
+[2022.11.08-08.22.54:553][  0]LogModuleManager: Shutting down and abandoning module OpenXREditor (556)
+[2022.11.08-08.22.54:553][  0]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (554)
+[2022.11.08-08.22.54:553][  0]LogModuleManager: Shutting down and abandoning module GooglePAD (552)
+[2022.11.08-08.22.54:553][  0]LogModuleManager: Shutting down and abandoning module EditableMesh (550)
+[2022.11.08-08.22.54:553][  0]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (548)
+[2022.11.08-08.22.54:553][  0]LogModuleManager: Shutting down and abandoning module CableComponent (546)
+[2022.11.08-08.22.54:553][  0]LogModuleManager: Shutting down and abandoning module AudioCapture (544)
+[2022.11.08-08.22.54:553][  0]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (543)
+[2022.11.08-08.22.54:553][  0]LogModuleManager: Shutting down and abandoning module AssetTags (540)
+[2022.11.08-08.22.54:553][  0]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (538)
+[2022.11.08-08.22.54:553][  0]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (536)
+[2022.11.08-08.22.54:553][  0]LogModuleManager: Shutting down and abandoning module AppleImageUtils (534)
+[2022.11.08-08.22.54:553][  0]LogModuleManager: Shutting down and abandoning module AndroidPermission (532)
+[2022.11.08-08.22.54:553][  0]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (530)
+[2022.11.08-08.22.54:553][  0]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (528)
+[2022.11.08-08.22.54:553][  0]LogModuleManager: Shutting down and abandoning module TemplateSequence (526)
+[2022.11.08-08.22.54:553][  0]LogModuleManager: Shutting down and abandoning module MediaCompositing (524)
+[2022.11.08-08.22.54:553][  0]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (522)
+[2022.11.08-08.22.54:553][  0]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (520)
+[2022.11.08-08.22.54:553][  0]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (518)
+[2022.11.08-08.22.54:553][  0]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (516)
+[2022.11.08-08.22.54:554][  0]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (514)
+[2022.11.08-08.22.54:554][  0]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (512)
+[2022.11.08-08.22.54:554][  0]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (510)
+[2022.11.08-08.22.54:554][  0]LogOpenImageDenoise: OIDN shutting down
+[2022.11.08-08.22.54:554][  0]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (508)
+[2022.11.08-08.22.54:554][  0]LogModuleManager: Shutting down and abandoning module MotoSynth (506)
+[2022.11.08-08.22.54:554][  0]LogModuleManager: Shutting down and abandoning module MeshConversion (504)
+[2022.11.08-08.22.54:554][  0]LogModuleManager: Shutting down and abandoning module DynamicMesh (502)
+[2022.11.08-08.22.54:554][  0]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (500)
+[2022.11.08-08.22.54:554][  0]LogModuleManager: Shutting down and abandoning module GeometricObjects (498)
+[2022.11.08-08.22.54:554][  0]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (496)
+[2022.11.08-08.22.54:554][  0]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (495)
+[2022.11.08-08.22.54:554][  0]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (492)
+[2022.11.08-08.22.54:554][  0]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (490)
+[2022.11.08-08.22.54:554][  0]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (488)
+[2022.11.08-08.22.54:554][  0]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (486)
+[2022.11.08-08.22.54:554][  0]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (484)
+[2022.11.08-08.22.54:554][  0]LogModuleManager: Shutting down and abandoning module ChaosNiagara (482)
+[2022.11.08-08.22.54:554][  0]LogModuleManager: Shutting down and abandoning module FractureEditor (480)
+[2022.11.08-08.22.54:554][  0]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (479)
+[2022.11.08-08.22.54:554][  0]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (476)
+[2022.11.08-08.22.54:554][  0]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (474)
+[2022.11.08-08.22.54:554][  0]LogModuleManager: Shutting down and abandoning module AutomationUtils (472)
+[2022.11.08-08.22.54:554][  0]LogModuleManager: Shutting down and abandoning module AlembicImporter (470)
+[2022.11.08-08.22.54:554][  0]LogModuleManager: Shutting down and abandoning module AlembicLibrary (469)
+[2022.11.08-08.22.54:554][  0]LogModuleManager: Shutting down and abandoning module GeometryCache (468)
+[2022.11.08-08.22.54:554][  0]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (467)
+[2022.11.08-08.22.54:554][  0]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (462)
+[2022.11.08-08.22.54:554][  0]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (460)
+[2022.11.08-08.22.54:554][  0]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (458)
+[2022.11.08-08.22.54:554][  0]LogModuleManager: Shutting down and abandoning module PluginBrowser (456)
+[2022.11.08-08.22.54:554][  0]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (454)
+[2022.11.08-08.22.54:554][  0]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (452)
+[2022.11.08-08.22.54:554][  0]LogModuleManager: Shutting down and abandoning module CurveEditorTools (450)
+[2022.11.08-08.22.54:554][  0]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (448)
+[2022.11.08-08.22.54:555][  0]LogModuleManager: Shutting down and abandoning module CryptoKeys (446)
+[2022.11.08-08.22.54:555][  0]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (444)
+[2022.11.08-08.22.54:555][  0]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (442)
+[2022.11.08-08.22.54:555][  0]LogModuleManager: Shutting down and abandoning module UObjectPlugin (440)
+[2022.11.08-08.22.54:555][  0]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (438)
+[2022.11.08-08.22.54:555][  0]LogModuleManager: Shutting down and abandoning module PluginUtils (436)
+[2022.11.08-08.22.54:555][  0]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (434)
+[2022.11.08-08.22.54:555][  0]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (432)
+[2022.11.08-08.22.54:555][  0]LogModuleManager: Shutting down and abandoning module GitSourceControl (430)
+[2022.11.08-08.22.54:555][  0]LogModuleManager: Shutting down and abandoning module SourceControl (429)
+[2022.11.08-08.22.54:555][  0]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (426)
+[2022.11.08-08.22.54:555][  0]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (424)
+[2022.11.08-08.22.54:555][  0]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (422)
+[2022.11.08-08.22.54:555][  0]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (420)
+[2022.11.08-08.22.54:555][  0]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (418)
+[2022.11.08-08.22.54:556][  0]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (416)
+[2022.11.08-08.22.54:556][  0]LogModuleManager: Shutting down and abandoning module Paper2DEditor (414)
+[2022.11.08-08.22.54:556][  0]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (412)
+[2022.11.08-08.22.54:556][  0]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (410)
+[2022.11.08-08.22.54:556][  0]LogModuleManager: Shutting down and abandoning module SoundFields (408)
+[2022.11.08-08.22.54:556][  0]LogModuleManager: Shutting down and abandoning module SignificanceManager (406)
+[2022.11.08-08.22.54:556][  0]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (404)
+[2022.11.08-08.22.54:556][  0]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (402)
+[2022.11.08-08.22.54:556][  0]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (400)
+[2022.11.08-08.22.54:556][  0]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (396)
+[2022.11.08-08.22.54:556][  0]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (394)
+[2022.11.08-08.22.54:556][  0]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (392)
+[2022.11.08-08.22.54:556][  0]LogModuleManager: Shutting down and abandoning module ActorSequence (390)
+[2022.11.08-08.22.54:556][  0]LogModuleManager: Shutting down and abandoning module UdpMessaging (388)
+[2022.11.08-08.22.54:556][  0]LogModuleManager: Shutting down and abandoning module TcpMessaging (386)
+[2022.11.08-08.22.54:556][  0]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (384)
+[2022.11.08-08.22.54:556][  0]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (382)
+[2022.11.08-08.22.54:556][  0]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (380)
+[2022.11.08-08.22.54:556][  0]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (378)
+[2022.11.08-08.22.54:556][  0]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (376)
+[2022.11.08-08.22.54:556][  0]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.11.08-08.22.54:556][  0]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (374)
+[2022.11.08-08.22.54:556][  0]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (372)
+[2022.11.08-08.22.54:556][  0]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (370)
+[2022.11.08-08.22.54:556][  0]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (368)
+[2022.11.08-08.22.54:556][  0]LogModuleManager: Shutting down and abandoning module MagicLeapController (366)
+[2022.11.08-08.22.54:556][  0]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (364)
+[2022.11.08-08.22.54:556][  0]LogModuleManager: Shutting down and abandoning module MagicLeapAR (362)
+[2022.11.08-08.22.54:556][  0]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (360)
+[2022.11.08-08.22.54:556][  0]LogModuleManager: Shutting down and abandoning module Niagara (358)
+[2022.11.08-08.22.54:556][  0]LogModuleManager: Shutting down and abandoning module SignalProcessing (357)
+[2022.11.08-08.22.54:556][  0]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2022.11.08-08.22.54:557][  0]LogModuleManager: Shutting down and abandoning module NiagaraCore (352)
+[2022.11.08-08.22.54:557][  0]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (350)
+[2022.11.08-08.22.54:557][  0]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (348)
+[2022.11.08-08.22.54:557][  0]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (346)
+[2022.11.08-08.22.54:557][  0]LogModuleManager: Shutting down and abandoning module FacialAnimation (344)
+[2022.11.08-08.22.54:557][  0]LogModuleManager: Shutting down and abandoning module DataValidation (342)
+[2022.11.08-08.22.54:557][  0]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (340)
+[2022.11.08-08.22.54:557][  0]LogModuleManager: Shutting down and abandoning module TreeMap (339)
+[2022.11.08-08.22.54:557][  0]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (336)
+[2022.11.08-08.22.54:557][  0]LogModuleManager: Shutting down and abandoning module AnimationSharing (334)
+[2022.11.08-08.22.54:557][  0]LogModuleManager: Shutting down and abandoning module GameplayCameras (332)
+[2022.11.08-08.22.54:557][  0]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (330)
+[2022.11.08-08.22.54:557][  0]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (328)
+[2022.11.08-08.22.54:557][  0]LogModuleManager: Shutting down and abandoning module Paper2D (326)
+[2022.11.08-08.22.54:557][  0]LogModuleManager: Shutting down and abandoning module AsyncLoadingScreen (324)
+[2022.11.08-08.22.54:557][  0]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (322)
+[2022.11.08-08.22.54:557][  0]LogModuleManager: Shutting down and abandoning module PacketHandler (320)
+[2022.11.08-08.22.54:557][  0]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (318)
+[2022.11.08-08.22.54:557][  0]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (316)
+[2022.11.08-08.22.54:557][  0]LogModuleManager: Shutting down and abandoning module MediaAssets (314)
+[2022.11.08-08.22.54:557][  0]LogModuleManager: Shutting down and abandoning module Overlay (312)
+[2022.11.08-08.22.54:557][  0]LogModuleManager: Shutting down and abandoning module OverlayEditor (311)
+[2022.11.08-08.22.54:557][  0]LogModuleManager: Shutting down and abandoning module Blutility (308)
+[2022.11.08-08.22.54:557][  0]LogModuleManager: Shutting down and abandoning module LevelEditor (307)
+[2022.11.08-08.22.54:559][  0]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (306)
+[2022.11.08-08.22.54:559][  0]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (304)
+[2022.11.08-08.22.54:559][  0]LogModuleManager: Shutting down and abandoning module MainFrame (302)
+[2022.11.08-08.22.54:559][  0]LogModuleManager: Shutting down and abandoning module HotReload (301)
+[2022.11.08-08.22.54:560][  0]LogModuleManager: Shutting down and abandoning module ContentBrowser (297)
+[2022.11.08-08.22.54:560][  0]LogModuleManager: Shutting down and abandoning module CollectionManager (296)
+[2022.11.08-08.22.54:561][  0]LogModuleManager: Shutting down and abandoning module ContentBrowserData (294)
+[2022.11.08-08.22.54:561][  0]LogModuleManager: Shutting down and abandoning module IntroTutorials (290)
+[2022.11.08-08.22.54:561][  0]LogModuleManager: Shutting down and abandoning module VREditor (288)
+[2022.11.08-08.22.54:561][  0]LogModuleManager: Shutting down and abandoning module StringTableEditor (286)
+[2022.11.08-08.22.54:561][  0]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (284)
+[2022.11.08-08.22.54:561][  0]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (282)
+[2022.11.08-08.22.54:561][  0]LogModuleManager: Shutting down and abandoning module FunctionalTesting (280)
+[2022.11.08-08.22.54:561][  0]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (278)
+[2022.11.08-08.22.54:561][  0]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (277)
+[2022.11.08-08.22.54:561][  0]LogModuleManager: Shutting down and abandoning module UMG (274)
+[2022.11.08-08.22.54:561][  0]LogModuleManager: Shutting down and abandoning module UMGEditor (273)
+[2022.11.08-08.22.54:561][  0]LogModuleManager: Shutting down and abandoning module MessageLog (271)
+[2022.11.08-08.22.54:561][  0]LogModuleManager: Shutting down and abandoning module SlateReflector (266)
+[2022.11.08-08.22.54:561][  0]LogModuleManager: Shutting down and abandoning module Slate (264)
+[2022.11.08-08.22.54:561][  0]LogModuleManager: Shutting down and abandoning module SlateCore (262)
+[2022.11.08-08.22.54:563][  0]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (260)
+[2022.11.08-08.22.54:563][  0]LogModuleManager: Shutting down and abandoning module UnrealEd (258)
+[2022.11.08-08.22.54:563][  0]LogModuleManager: Shutting down and abandoning module MRMesh (256)
+[2022.11.08-08.22.54:563][  0]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (254)
+[2022.11.08-08.22.54:563][  0]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (252)
+[2022.11.08-08.22.54:563][  0]LogModuleManager: Shutting down and abandoning module XAudio2 (250)
+[2022.11.08-08.22.54:563][  0]LogModuleManager: Shutting down and abandoning module Networking (248)
+[2022.11.08-08.22.54:563][  0]LogModuleManager: Shutting down and abandoning module Core (246)
+[2022.11.08-08.22.54:563][  0]LogModuleManager: Shutting down and abandoning module MaterialEditor (244)
+[2022.11.08-08.22.54:563][  0]LogModuleManager: Shutting down and abandoning module Settings (243)
+[2022.11.08-08.22.54:563][  0]LogModuleManager: Shutting down and abandoning module MovieSceneTools (240)
+[2022.11.08-08.22.54:563][  0]LogModuleManager: Shutting down and abandoning module CurveEditor (239)
+[2022.11.08-08.22.54:563][  0]LogModuleManager: Shutting down and abandoning module Sequencer (237)
+[2022.11.08-08.22.54:563][  0]LogModuleManager: Shutting down and abandoning module EditorStyle (236)
+[2022.11.08-08.22.54:565][  0]LogModuleManager: Shutting down and abandoning module KismetCompiler (232)
+[2022.11.08-08.22.54:565][  0]LogModuleManager: Shutting down and abandoning module MeshBuilder (230)
+[2022.11.08-08.22.54:565][  0]LogModuleManager: Shutting down and abandoning module MeshUtilities (228)
+[2022.11.08-08.22.54:565][  0]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (227)
+[2022.11.08-08.22.54:565][  0]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (226)
+[2022.11.08-08.22.54:565][  0]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (225)
+[2022.11.08-08.22.54:565][  0]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (223)
+[2022.11.08-08.22.54:565][  0]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (221)
+[2022.11.08-08.22.54:565][  0]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (219)
+[2022.11.08-08.22.54:565][  0]LogModuleManager: Shutting down and abandoning module MaterialBaking (215)
+[2022.11.08-08.22.54:565][  0]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (211)
+[2022.11.08-08.22.54:565][  0]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (208)
+[2022.11.08-08.22.54:565][  0]LogModuleManager: Shutting down and abandoning module DerivedDataCache (206)
+[2022.11.08-08.22.54:565][  0]LogModuleManager: Shutting down and abandoning module TargetPlatform (204)
+[2022.11.08-08.22.54:565][  0]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (203)
+[2022.11.08-08.22.54:566][  0]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (201)
+[2022.11.08-08.22.54:566][  0]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (199)
+[2022.11.08-08.22.54:566][  0]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (197)
+[2022.11.08-08.22.54:566][  0]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (195)
+[2022.11.08-08.22.54:566][  0]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (193)
+[2022.11.08-08.22.54:566][  0]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (191)
+[2022.11.08-08.22.54:566][  0]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (189)
+[2022.11.08-08.22.54:566][  0]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (187)
+[2022.11.08-08.22.54:566][  0]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (185)
+[2022.11.08-08.22.54:566][  0]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (183)
+[2022.11.08-08.22.54:566][  0]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (181)
+[2022.11.08-08.22.54:566][  0]LogModuleManager: Shutting down and abandoning module ImageWrapper (180)
+[2022.11.08-08.22.54:566][  0]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (177)
+[2022.11.08-08.22.54:566][  0]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (175)
+[2022.11.08-08.22.54:566][  0]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (173)
+[2022.11.08-08.22.54:566][  0]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (171)
+[2022.11.08-08.22.54:566][  0]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (169)
+[2022.11.08-08.22.54:566][  0]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (167)
+[2022.11.08-08.22.54:566][  0]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (165)
+[2022.11.08-08.22.54:566][  0]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (163)
+[2022.11.08-08.22.54:567][  0]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (161)
+[2022.11.08-08.22.54:567][  0]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (159)
+[2022.11.08-08.22.54:567][  0]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (157)
+[2022.11.08-08.22.54:567][  0]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (155)
+[2022.11.08-08.22.54:567][  0]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (153)
+[2022.11.08-08.22.54:568][  0]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (151)
+[2022.11.08-08.22.54:568][  0]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (149)
+[2022.11.08-08.22.54:568][  0]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (147)
+[2022.11.08-08.22.54:568][  0]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (145)
+[2022.11.08-08.22.54:568][  0]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (143)
+[2022.11.08-08.22.54:568][  0]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (141)
+[2022.11.08-08.22.54:568][  0]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (139)
+[2022.11.08-08.22.54:568][  0]LogModuleManager: Shutting down and abandoning module Messaging (137)
+[2022.11.08-08.22.54:568][  0]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (135)
+[2022.11.08-08.22.54:569][  0]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (133)
+[2022.11.08-08.22.54:573][  0]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (131)
+[2022.11.08-08.22.54:573][  0]LogModuleManager: Shutting down and abandoning module NullDrv (128)
+[2022.11.08-08.22.54:573][  0]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2022.11.08-08.22.54:573][  0]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2022.11.08-08.22.54:573][  0]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2022.11.08-08.22.54:573][  0]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2022.11.08-08.22.54:573][  0]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2022.11.08-08.22.54:573][  0]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (116)
+[2022.11.08-08.22.54:573][  0]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (114)
+[2022.11.08-08.22.54:573][  0]LogModuleManager: Shutting down and abandoning module SteamVRInput (112)
+[2022.11.08-08.22.54:573][  0]LogModuleManager: Shutting down and abandoning module SteamVR (110)
+[2022.11.08-08.22.54:573][  0]LogHMD: Freeing OpenVRDLLHandle.
+[2022.11.08-08.22.54:573][  0]LogModuleManager: Shutting down and abandoning module OculusHMD (108)
+[2022.11.08-08.22.54:573][  0]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (106)
+[2022.11.08-08.22.54:573][  0]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (104)
+[2022.11.08-08.22.54:573][  0]LogModuleManager: Shutting down and abandoning module OpenXRAR (102)
+[2022.11.08-08.22.54:573][  0]LogModuleManager: Shutting down and abandoning module AugmentedReality (101)
+[2022.11.08-08.22.54:573][  0]LogModuleManager: Shutting down and abandoning module OpenXRHMD (98)
+[2022.11.08-08.22.54:573][  0]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2022.11.08-08.22.54:573][  0]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (94)
+[2022.11.08-08.22.54:573][  0]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2022.11.08-08.22.54:573][  0]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2022.11.08-08.22.54:575][  0]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2022.11.08-08.22.54:575][  0]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2022.11.08-08.22.54:587][  0]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2022.11.08-08.22.54:588][  0]LogHttp: Display: cleaning up 0 outstanding Http requests.
+[2022.11.08-08.22.54:620][  0]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2022.11.08-08.22.54:621][  0]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2022.11.08-08.22.54:627][  0]LogModuleManager: Shutting down and abandoning module Media (73)
+[2022.11.08-08.22.54:629][  0]LogModuleManager: Shutting down and abandoning module MediaInfo (72)
+[2022.11.08-08.22.54:630][  0]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2022.11.08-08.22.54:630][  0]LogModuleManager: Shutting down and abandoning module MLSDK (66)
+[2022.11.08-08.22.54:630][  0]LogModuleManager: Shutting down and abandoning module MagicLeap (64)
+[2022.11.08-08.22.54:630][  0]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (62)
+[2022.11.08-08.22.54:630][  0]LogModuleManager: Shutting down and abandoning module NiagaraShader (60)
+[2022.11.08-08.22.54:630][  0]LogModuleManager: Shutting down and abandoning module ChaosCloth (58)
+[2022.11.08-08.22.54:630][  0]LogModuleManager: Shutting down and abandoning module VariantManagerContent (56)
+[2022.11.08-08.22.54:630][  0]LogModuleManager: Shutting down and abandoning module DatasmithContent (54)
+[2022.11.08-08.22.54:630][  0]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2022.11.08-08.22.54:630][  0]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.11.08-08.22.54:630][  0]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.11.08-08.22.54:630][  0]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2022.11.08-08.22.54:630][  0]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2022.11.08-08.22.54:630][  0]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2022.11.08-08.22.54:630][  0]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2022.11.08-08.22.54:630][  0]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2022.11.08-08.22.54:630][  0]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2022.11.08-08.22.54:631][  0]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2022.11.08-08.22.54:631][  0]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2022.11.08-08.22.54:631][  0]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2022.11.08-08.22.54:631][  0]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.11.08-08.22.54:631][  0]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.11.08-08.22.54:631][  0]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.11.08-08.22.54:631][  0]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.11.08-08.22.54:631][  0]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.11.08-08.22.54:631][  0]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.11.08-08.22.54:631][  0]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.11.08-08.22.54:631][  0]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.11.08-08.22.54:631][  0]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.11.08-08.22.54:631][  0]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.11.08-08.22.54:631][  0]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.11.08-08.22.54:631][  0]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.11.08-08.22.54:631][  0]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.11.08-08.22.54:631][  0]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.11.08-08.22.54:929][  0]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.11.08-08.22.54:940][  0]LogExit: Exiting.
+[2022.11.08-08.22.54:972][  0]Log file closed, 11/08/22 10:22:54

@@ -1,0 +1,9 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.myproject-18319896.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "D:/Proj/Prologue/Prologue/MyProject/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":

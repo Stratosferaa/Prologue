@@ -49,8 +49,8 @@
 #define NDEBUG 1
 #define UE_BUILD_DEVELOPMENT 1
 #define UE_IS_ENGINE_MODULE 0
-#define UE_PROJECT_NAME SpineUE4
-#define UE_TARGET_NAME SpineUE4Editor
+#define UE_PROJECT_NAME MyProject
+#define UE_TARGET_NAME UE4Editor
 #define UE_MODULE_NAME "SpineEditorPlugin"
 #define UE_PLUGIN_NAME "SpinePlugin"
 #define IMPLEMENT_ENCRYPTION_KEY_REGISTRATION() 

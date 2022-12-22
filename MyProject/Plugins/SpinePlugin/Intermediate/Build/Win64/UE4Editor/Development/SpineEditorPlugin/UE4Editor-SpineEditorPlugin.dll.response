@@ -1,5 +1,5 @@
 /MANIFEST:EMBED
-/MANIFESTINPUT:D:\UE_4.27\Engine\Build\Windows\Resources\Default-Win64.manifest
+/MANIFESTINPUT:"M:\Unreal Engine 4\UE_4.27\Engine\Build\Windows\Resources\Default-Win64.manifest"
 /NOLOGO
 /DEBUG
 /errorReport:prompt
@@ -18,10 +18,10 @@
 /ignore:4099
 /DELAYLOAD:"d3d12.dll"
 /DELAYLOAD:"DBGHELP.DLL"
-/LIBPATH:"D:\Programs\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\lib\x64"
+/LIBPATH:"E:\Programs\Visual Studio- Main\VC\Tools\MSVC\14.33.31629\lib\x64"
 /LIBPATH:"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\lib\um\x64"
-/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\ucrt\x64"
-/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\ucrt\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64"
 /NODEFAULTLIB:"LIBCMT"
 /NODEFAULTLIB:"LIBCPMT"
 /NODEFAULTLIB:"LIBCMTD"
@@ -33,15 +33,15 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
-"D:\Unreal_Projects\spine-ue4\Intermediate\Build\Win64\SpineUE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
-"D:\Unreal_Projects\spine-ue4\Plugins\SpinePlugin\Intermediate\Build\Win64\UE4Editor\Development\SpineEditorPlugin\Module.SpineEditorPlugin.cpp.obj"
-"D:\Unreal_Projects\spine-ue4\Plugins\SpinePlugin\Intermediate\Build\Win64\UE4Editor\Development\SpineEditorPlugin\Module.SpineEditorPlugin.gen.cpp.obj"
-"D:\Unreal_Projects\spine-ue4\Plugins\SpinePlugin\Intermediate\Build\Win64\UE4Editor\Development\SpineEditorPlugin\Default.rc2.res"
-"D:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
-"D:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
-"D:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
-"D:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\UE4Editor-UnrealEd.lib"
-"D:\Unreal_Projects\spine-ue4\Plugins\SpinePlugin\Intermediate\Build\Win64\UE4Editor\Development\SpinePlugin\UE4Editor-SpinePlugin.lib"
+"M:\Unreal Engine 4\Repozitory\Siu-V2\Prologue\MyProject\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"M:\Unreal Engine 4\Repozitory\Siu-V2\Prologue\MyProject\Plugins\SpinePlugin\Intermediate\Build\Win64\UE4Editor\Development\SpineEditorPlugin\Module.SpineEditorPlugin.cpp.obj"
+"M:\Unreal Engine 4\Repozitory\Siu-V2\Prologue\MyProject\Plugins\SpinePlugin\Intermediate\Build\Win64\UE4Editor\Development\SpineEditorPlugin\Module.SpineEditorPlugin.gen.cpp.obj"
+"M:\Unreal Engine 4\Repozitory\Siu-V2\Prologue\MyProject\Plugins\SpinePlugin\Intermediate\Build\Win64\UE4Editor\Development\SpineEditorPlugin\Default.rc2.res"
+"M:\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
+"M:\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
+"M:\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
+"M:\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\UE4Editor-UnrealEd.lib"
+"M:\Unreal Engine 4\Repozitory\Siu-V2\Prologue\MyProject\Plugins\SpinePlugin\Intermediate\Build\Win64\UE4Editor\Development\SpinePlugin\UE4Editor-SpinePlugin.lib"
 "delayimp.lib"
 "wininet.lib"
 "rpcrt4.lib"
@@ -66,7 +66,7 @@
 "setupapi.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"D:\Unreal_Projects\spine-ue4\Plugins\SpinePlugin\Binaries\Win64\UE4Editor-SpineEditorPlugin.dll"
-/IMPLIB:"D:\Unreal_Projects\spine-ue4\Plugins\SpinePlugin\Intermediate\Build\Win64\UE4Editor\Development\SpineEditorPlugin\UE4Editor-SpineEditorPlugin.suppressed.lib"
-/PDB:"D:\Unreal_Projects\spine-ue4\Plugins\SpinePlugin\Binaries\Win64\UE4Editor-SpineEditorPlugin.pdb"
+/OUT:"M:\Unreal Engine 4\Repozitory\Siu-V2\Prologue\MyProject\Plugins\SpinePlugin\Binaries\Win64\UE4Editor-SpineEditorPlugin.dll"
+/IMPLIB:"M:\Unreal Engine 4\Repozitory\Siu-V2\Prologue\MyProject\Plugins\SpinePlugin\Intermediate\Build\Win64\UE4Editor\Development\SpineEditorPlugin\UE4Editor-SpineEditorPlugin.suppressed.lib"
+/PDB:"M:\Unreal Engine 4\Repozitory\Siu-V2\Prologue\MyProject\Plugins\SpinePlugin\Binaries\Win64\UE4Editor-SpineEditorPlugin.pdb"
 /ignore:4078

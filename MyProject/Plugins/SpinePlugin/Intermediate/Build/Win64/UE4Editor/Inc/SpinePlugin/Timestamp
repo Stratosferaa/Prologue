@@ -1,8 +1,8 @@
-D:\Unreal_Projects\spine-ue4\Plugins\SpinePlugin\Source\SpinePlugin\Public\SpineAtlasAsset.h
-D:\Unreal_Projects\spine-ue4\Plugins\SpinePlugin\Source\SpinePlugin\Public\SpineBoneDriverComponent.h
-D:\Unreal_Projects\spine-ue4\Plugins\SpinePlugin\Source\SpinePlugin\Public\SpineBoneFollowerComponent.h
-D:\Unreal_Projects\spine-ue4\Plugins\SpinePlugin\Source\SpinePlugin\Public\SpineSkeletonComponent.h
-D:\Unreal_Projects\spine-ue4\Plugins\SpinePlugin\Source\SpinePlugin\Public\SpineSkeletonAnimationComponent.h
-D:\Unreal_Projects\spine-ue4\Plugins\SpinePlugin\Source\SpinePlugin\Public\SpineSkeletonDataAsset.h
-D:\Unreal_Projects\spine-ue4\Plugins\SpinePlugin\Source\SpinePlugin\Public\SpineSkeletonRendererComponent.h
-D:\Unreal_Projects\spine-ue4\Plugins\SpinePlugin\Source\SpinePlugin\Public\SpineWidget.h
+M:\Unreal Engine 4\Repozitory\Siu-V2\Prologue\MyProject\Plugins\SpinePlugin\Source\SpinePlugin\Public\SpineBoneDriverComponent.h
+M:\Unreal Engine 4\Repozitory\Siu-V2\Prologue\MyProject\Plugins\SpinePlugin\Source\SpinePlugin\Public\SpineAtlasAsset.h
+M:\Unreal Engine 4\Repozitory\Siu-V2\Prologue\MyProject\Plugins\SpinePlugin\Source\SpinePlugin\Public\SpineBoneFollowerComponent.h
+M:\Unreal Engine 4\Repozitory\Siu-V2\Prologue\MyProject\Plugins\SpinePlugin\Source\SpinePlugin\Public\SpineSkeletonComponent.h
+M:\Unreal Engine 4\Repozitory\Siu-V2\Prologue\MyProject\Plugins\SpinePlugin\Source\SpinePlugin\Public\SpineSkeletonAnimationComponent.h
+M:\Unreal Engine 4\Repozitory\Siu-V2\Prologue\MyProject\Plugins\SpinePlugin\Source\SpinePlugin\Public\SpineWidget.h
+M:\Unreal Engine 4\Repozitory\Siu-V2\Prologue\MyProject\Plugins\SpinePlugin\Source\SpinePlugin\Public\SpineSkeletonDataAsset.h
+M:\Unreal Engine 4\Repozitory\Siu-V2\Prologue\MyProject\Plugins\SpinePlugin\Source\SpinePlugin\Public\SpineSkeletonRendererComponent.h

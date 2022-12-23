@@ -15,7 +15,7 @@ class UTrackEntry;
 #endif
 #define SPINEPLUGIN_SpineWidget_generated_h
 
-#define spine_ue4_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h_43_DELEGATE \
+#define MyProject_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h_43_DELEGATE \
 struct _Script_SpinePlugin_eventSpineWidgetAfterUpdateWorldTransformDelegate_Parms \
 { \
 	USpineWidget* skeleton; \
@@ -28,7 +28,7 @@ static inline void FSpineWidgetAfterUpdateWorldTransformDelegate_DelegateWrapper
 }
 
 
-#define spine_ue4_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h_42_DELEGATE \
+#define MyProject_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h_42_DELEGATE \
 struct _Script_SpinePlugin_eventSpineWidgetBeforeUpdateWorldTransformDelegate_Parms \
 { \
 	USpineWidget* skeleton; \
@@ -41,8 +41,8 @@ static inline void FSpineWidgetBeforeUpdateWorldTransformDelegate_DelegateWrappe
 }
 
 
-#define spine_ue4_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h_47_SPARSE_DATA
-#define spine_ue4_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h_47_RPC_WRAPPERS \
+#define MyProject_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h_47_SPARSE_DATA
+#define MyProject_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h_47_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execTick); \
 	DECLARE_FUNCTION(execClearTrack); \
@@ -78,7 +78,7 @@ static inline void FSpineWidgetBeforeUpdateWorldTransformDelegate_DelegateWrappe
 	DECLARE_FUNCTION(execGetSkins);
 
 
-#define spine_ue4_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h_47_RPC_WRAPPERS_NO_PURE_DECLS \
+#define MyProject_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h_47_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execTick); \
 	DECLARE_FUNCTION(execClearTrack); \
@@ -114,7 +114,7 @@ static inline void FSpineWidgetBeforeUpdateWorldTransformDelegate_DelegateWrappe
 	DECLARE_FUNCTION(execGetSkins);
 
 
-#define spine_ue4_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h_47_INCLASS_NO_PURE_DECLS \
+#define MyProject_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h_47_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUSpineWidget(); \
 	friend struct Z_Construct_UClass_USpineWidget_Statics; \
@@ -123,7 +123,7 @@ public: \
 	DECLARE_SERIALIZER(USpineWidget)
 
 
-#define spine_ue4_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h_47_INCLASS \
+#define MyProject_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h_47_INCLASS \
 private: \
 	static void StaticRegisterNativesUSpineWidget(); \
 	friend struct Z_Construct_UClass_USpineWidget_Statics; \
@@ -132,7 +132,7 @@ public: \
 	DECLARE_SERIALIZER(USpineWidget)
 
 
-#define spine_ue4_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h_47_STANDARD_CONSTRUCTORS \
+#define MyProject_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h_47_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API USpineWidget(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(USpineWidget) \
@@ -145,7 +145,7 @@ private: \
 public:
 
 
-#define spine_ue4_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h_47_ENHANCED_CONSTRUCTORS \
+#define MyProject_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h_47_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API USpineWidget(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -158,7 +158,7 @@ public: \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(USpineWidget)
 
 
-#define spine_ue4_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h_47_PRIVATE_PROPERTY_OFFSET \
+#define MyProject_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h_47_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__atlasNormalBlendMaterials() { return STRUCT_OFFSET(USpineWidget, atlasNormalBlendMaterials); } \
 	FORCEINLINE static uint32 __PPO__atlasAdditiveBlendMaterials() { return STRUCT_OFFSET(USpineWidget, atlasAdditiveBlendMaterials); } \
 	FORCEINLINE static uint32 __PPO__atlasMultiplyBlendMaterials() { return STRUCT_OFFSET(USpineWidget, atlasMultiplyBlendMaterials); } \
@@ -167,27 +167,27 @@ public: \
 	FORCEINLINE static uint32 __PPO__bAutoPlaying() { return STRUCT_OFFSET(USpineWidget, bAutoPlaying); }
 
 
-#define spine_ue4_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h_45_PROLOG
-#define spine_ue4_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h_47_GENERATED_BODY_LEGACY \
+#define MyProject_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h_45_PROLOG
+#define MyProject_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h_47_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	spine_ue4_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h_47_PRIVATE_PROPERTY_OFFSET \
-	spine_ue4_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h_47_SPARSE_DATA \
-	spine_ue4_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h_47_RPC_WRAPPERS \
-	spine_ue4_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h_47_INCLASS \
-	spine_ue4_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h_47_STANDARD_CONSTRUCTORS \
+	MyProject_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h_47_PRIVATE_PROPERTY_OFFSET \
+	MyProject_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h_47_SPARSE_DATA \
+	MyProject_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h_47_RPC_WRAPPERS \
+	MyProject_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h_47_INCLASS \
+	MyProject_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h_47_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define spine_ue4_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h_47_GENERATED_BODY \
+#define MyProject_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h_47_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	spine_ue4_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h_47_PRIVATE_PROPERTY_OFFSET \
-	spine_ue4_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h_47_SPARSE_DATA \
-	spine_ue4_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h_47_RPC_WRAPPERS_NO_PURE_DECLS \
-	spine_ue4_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h_47_INCLASS_NO_PURE_DECLS \
-	spine_ue4_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h_47_ENHANCED_CONSTRUCTORS \
+	MyProject_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h_47_PRIVATE_PROPERTY_OFFSET \
+	MyProject_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h_47_SPARSE_DATA \
+	MyProject_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h_47_RPC_WRAPPERS_NO_PURE_DECLS \
+	MyProject_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h_47_INCLASS_NO_PURE_DECLS \
+	MyProject_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h_47_ENHANCED_CONSTRUCTORS \
 static_assert(false, "Unknown access specifier for GENERATED_BODY() macro in class SpineWidget."); \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -195,7 +195,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> SPINEPLUGIN_API UClass* StaticClass<class USpineWidget>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID spine_ue4_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h
+#define CURRENT_FILE_ID MyProject_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineWidget_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
